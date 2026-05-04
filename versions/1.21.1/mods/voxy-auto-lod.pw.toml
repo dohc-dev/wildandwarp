@@ -1,0 +1,13 @@
+name = "Voxy Auto LOD"
+filename = "voxy_server_lod-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sef2SVSK/versions/GSQ9AL77/voxy_server_lod-1.1.4.jar"
+hash-format = "sha512"
+hash = "93418653af9f30ae162173c172596c778b7ef1dc45ddb7186d3e461814740d5e8bb508689e4caf5a5265110cc0ede3a0c3d8db40023c7eeda737f2943b6d5162"
+
+[update]
+[update.modrinth]
+mod-id = "Sef2SVSK"
+version = "GSQ9AL77"

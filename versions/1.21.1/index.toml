@@ -1,0 +1,55 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "02b29315d2ec0d055d0ebba1f36879da5bcacc823328a668c7e7340fb2cb03d4"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/voxy-0.2.9-alpha.jar"
+hash = "16144e178f592cb9ff3f062b16c215f9df6b036c66d0626fa2d8797d75317829"
+
+[[files]]
+file = "mods/voxy-auto-lod.pw.toml"
+hash = "c8f9e16a7410a90e0fcd5c5607a30fe90ff5539718e3767b54b57f7799b0c8ec"
+metafile = true

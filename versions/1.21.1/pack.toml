@@ -1,0 +1,13 @@
+name = "wildandwarp"
+author = "dohc-dev"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dd441543953cbd9daf5577d71f1b1365726ab47ed23f5ec48206a50bb18b21b5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
