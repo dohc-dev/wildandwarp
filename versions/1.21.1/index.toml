@@ -41,6 +41,51 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi-for-create-stock.pw.toml"
+hash = "bf360eddc5a53c87ab1dbc70bc76dd801e390d32b7774fa2ff7acc1c9b72ddb9"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
+metafile = true
+
+[[files]]
+file = "mods/emi-patternizer.pw.toml"
+hash = "d80e811774e8a7ce54650d2aaa68aee7588ef3ae746d3165f6c33e9e220a9138"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
+metafile = true
+
+[[files]]
+file = "mods/emixx.pw.toml"
+hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
@@ -51,13 +96,13 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/flerovium.pw.toml"
-hash = "ba78231dfcbe61e2df15ff861fad0bc6c6594ba1425280ae0de86a044407d07e"
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -86,6 +131,31 @@ hash = "23304e6c503133b275b54c0527c908b91a596d4ddb5c56d4db002fdd122b49fe"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-heatmap.pw.toml"
+hash = "e09bc955b2aa8ced27a5474df001be9ea1acfe0221307f6b99652515ee1fa383"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "f161cd39e3619182a8606ec812634d74713d32ca30c3585bdf7d40b7bb573919"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-waypoint-syncing.pw.toml"
+hash = "b70518eea584c0238ed79e4fde7ebdb685e4011e6dab10f127ed9d19668d6222"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "623fb7357556b0ff5c67c9d68a1aabe3880c5efe8bf75670e8b7c821fb66fc31"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
@@ -96,6 +166,11 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "337093b94742d334ad349d4fbfe1b74a9b885784ac6d43432896b3dc527260a9"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true
@@ -103,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
+metafile = true
+
+[[files]]
+file = "mods/nemos-blooming-blossom.pw.toml"
+hash = "7f6b6d5e17f6c19b4f9f3cd7960be755084d878de966fd09d57ea21728c7cfbd"
 metafile = true
 
 [[files]]
@@ -123,6 +203,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/stardew-hud.pw.toml"
+hash = "0712d071b7b97d8b5ae021d9df5aeedcdf9eae41cb72976d4e1dedcfab0b4708"
+metafile = true
+
+[[files]]
+file = "mods/still-life.pw.toml"
+hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
 metafile = true
 
 [[files]]

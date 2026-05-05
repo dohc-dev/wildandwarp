@@ -1,0 +1,13 @@
+name = "JourneyMap Ore Heatmap"
+filename = "journeymap_ore_heatmap-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DAA4mDRM/versions/Y5IwqFnj/journeymap_ore_heatmap-1.0.1.jar"
+hash-format = "sha512"
+hash = "5cfcaf390d568ab51b26df337dc07184e9f58b08eee0bd5aa97651302e775f2e050fcb5107d7daf32329993255a1589ec1c351a89e553051908f91659582eef6"
+
+[update]
+[update.modrinth]
+mod-id = "DAA4mDRM"
+version = "Y5IwqFnj"

@@ -1,0 +1,13 @@
+name = "Stardew HUD"
+filename = "StardewHUD-1.21.1-neoforge-1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hvnOGUOZ/versions/bnTaJ0IP/StardewHUD-1.21.1-neoforge-1.2.4.jar"
+hash-format = "sha512"
+hash = "92ffa29ca5d282b10bd2efa6f5ca169acf852738ce69c36c68fd1d2d45cf51ef69bf961d13fa81de4d6e54ea6a24d3ea4ca2ca12da4fd3c95b9c290ed9df8caf"
+
+[update]
+[update.modrinth]
+mod-id = "hvnOGUOZ"
+version = "bnTaJ0IP"

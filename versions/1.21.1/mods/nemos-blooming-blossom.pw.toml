@@ -1,0 +1,13 @@
+name = "Nemo's Blooming Blossom"
+filename = "NemosBloomingBlossom-NeoForge-1.21.1-1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/k9WBR3d6/versions/vbuo9Q6v/NemosBloomingBlossom-NeoForge-1.21.1-1.3.jar"
+hash-format = "sha512"
+hash = "7d20df090bf84e57e58750d4d9d4ec4173e3b9266a370c85910c4b4e702fc9ed507ce2f66e0ef106521f80429714c44269f1587d3c42eb14eefb466da1f67d24"
+
+[update]
+[update.modrinth]
+mod-id = "k9WBR3d6"
+version = "vbuo9Q6v"
