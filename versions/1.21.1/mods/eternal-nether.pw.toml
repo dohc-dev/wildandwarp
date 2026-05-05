@@ -1,0 +1,13 @@
+name = "Eternal Nether"
+filename = "EternalNether-v21.1.3-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3460532417842063306c5a12428b3c877e18d073"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6751611
+project-id = 1252482

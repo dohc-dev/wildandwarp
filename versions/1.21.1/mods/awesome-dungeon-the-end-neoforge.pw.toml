@@ -1,0 +1,13 @@
+name = "Awesome Dungeon The End edition - Neoforge"
+filename = "awesomedungeonend-neoforge-1.21.1-3.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7700b06f808800aad9699dd98ac699ce7892c93f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7061818
+project-id = 537531

@@ -1,0 +1,13 @@
+name = "Echoes of The End ( Structures)"
+filename = "echoes_of_the_end__structures_-11.00.12 Release-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eVpstLY3/versions/x0YmrtNu/echoes_of_the_end__structures_-11.00.12%20Release-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c9c94c561f98f596844381d4f0956ab0ae8e5bb00195157756fe5c3e302d5eb84bc91f0a9260e985f9a361bb1fcb688ff3a72ff58203cda797a44914b13a2412"
+
+[update]
+[update.modrinth]
+mod-id = "eVpstLY3"
+version = "x0YmrtNu"

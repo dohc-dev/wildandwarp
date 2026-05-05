@@ -31,6 +31,11 @@ hash = "8e3c94d901d27042e160a6f618f1574c5e644defe10d6fb9ad486c9f2dbfce5d"
 metafile = true
 
 [[files]]
+file = "mods/anvilcore.pw.toml"
+hash = "6cea29f80c69c77c7e4001668a3f72f15eb3eb33bb99ad9cfc8b004ce41ff018"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "ca4fdebf931acb8578216209bcc396cdfe7d804231f8048794eba5104df30f56"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-neoforge.pw.toml"
+hash = "de22ed58006b835a024a5a69a2550589748211ffa7f85e4698a5e05af859d758"
 metafile = true
 
 [[files]]
@@ -316,13 +326,33 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-dungeons.pw.toml"
+hash = "9264c185d29abc76263359eddf04f6ac5cc8405fda958e5f78c99d9f33d2de78"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "77109801093172dad01b0d62423eee91b317d23e094097760b065e980e8b10c2"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/echoes-of-the-end-(-structures).pw.toml"
+hash = "e7422bfd9a6a92b70b945b0fc523756a7bb1f77fdbcc9d80810d35cf58429feb"
+metafile = true
+
+[[files]]
+file = "mods/elysium-api.pw.toml"
+hash = "1e3ce3b998ff32187406aef4745bbf78ebb7ea27db6da446791d42762be54703"
 metafile = true
 
 [[files]]
@@ -383,6 +413,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
+metafile = true
+
+[[files]]
+file = "mods/eternal-nether.pw.toml"
+hash = "63c42204d3507e63b104d6fbacf7b516bf80361e8299fcc8a72eeef9faf93dcc"
+metafile = true
+
+[[files]]
+file = "mods/even-better-nether.pw.toml"
+hash = "4704d3dd8cd904577cbeeaaca9c30f93333af6a5f2c2476e197a7398b41153cf"
 metafile = true
 
 [[files]]
@@ -531,6 +571,11 @@ hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
+file = "mods/jadens-nether-expansion.pw.toml"
+hash = "fcf0d02f66ae2bc753d8192947bc1572c51d21ddcc3599477534bfcddabdb0e9"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "af8428daaf08a29dec8f58f71bcd9e32bf564203754f71b184f6ebb8b09a0c77"
 metafile = true
@@ -581,6 +626,11 @@ hash = "35a092ebb7190d43f3d7f88b23c72791da4e2b4ee5f97d54a91f70a35371f516"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret.pw.toml"
+hash = "599c8c37e60b9f1fbfb29d10eb9ede3d174b72287b9fbe407e90b6417a27a441"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "785513830b679834046baec7a2848f46a72d701548399131b8819ebfe4f0f5c8"
 metafile = true
@@ -598,6 +648,16 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
+metafile = true
+
+[[files]]
+file = "mods/luminous-nether.pw.toml"
+hash = "fc78b0c1a8ff576af16e2e21a43e5d7630a287bc519cb88a1ad6986e2414d537"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
 metafile = true
 
 [[files]]
@@ -666,6 +726,11 @@ hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "c183fb8843a6c04da0417e5d51c62b2def40b994f0e9f1176243877b104d88a8"
+metafile = true
+
+[[files]]
 file = "mods/numflux.pw.toml"
 hash = "538ffeecff742ca3bbe254735525f185835ef03f9249152aba7c70488e80b742"
 metafile = true
@@ -693,6 +758,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
@@ -801,6 +871,11 @@ hash = "0712d071b7b97d8b5ae021d9df5aeedcdf9eae41cb72976d4e1dedcfab0b4708"
 metafile = true
 
 [[files]]
+file = "mods/stellarity.pw.toml"
+hash = "d00442fc5ca76e08c5b1dc9eb15ee67ea993b608fae12c7b48529e044b543303"
+metafile = true
+
+[[files]]
 file = "mods/still-life.pw.toml"
 hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
 metafile = true
@@ -808,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "585973633ef03b8eb01b4bdeaedd21c7f2f5d588d1f5957941fab771852488a3"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]

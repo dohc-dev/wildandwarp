@@ -1,0 +1,13 @@
+name = "LUMINOUS: NETHER"
+filename = "Luminous Nether V1.3.2 - NeoForge 1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf622a1f6ad3347fffa6aca3ee55654c4af879d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7489312
+project-id = 1078098
