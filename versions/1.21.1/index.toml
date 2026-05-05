@@ -556,6 +556,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/it-takes-a-pillage-continuation.pw.toml"
+hash = "a840bbcdf59a5b7c126b521d5747fff296597adc913bbe770cefdf7ab24c7653"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "23304e6c503133b275b54c0527c908b91a596d4ddb5c56d4db002fdd122b49fe"
 metafile = true
@@ -651,6 +656,21 @@ hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
 metafile = true
 
 [[files]]
+file = "mods/lukis-ancient-cities.pw.toml"
+hash = "1aade71cc5101ff9c6fc8fc74d614bcd033999843df9323dcf4da5a6f15bd373"
+metafile = true
+
+[[files]]
+file = "mods/lukis-crazy-chambers.pw.toml"
+hash = "1e39f9c1cdcd35a2edacc768cf1b987cd6266b17b649d9ee8f28fbe18f3b5ee6"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "13ffe9265e50d2bfe9b97c3fabb9c1c8893430091207c89acf21dc8946520e14"
+metafile = true
+
+[[files]]
 file = "mods/luminous-nether.pw.toml"
 hash = "fc78b0c1a8ff576af16e2e21a43e5d7630a287bc519cb88a1ad6986e2414d537"
 metafile = true
@@ -727,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "c183fb8843a6c04da0417e5d51c62b2def40b994f0e9f1176243877b104d88a8"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
@@ -916,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
