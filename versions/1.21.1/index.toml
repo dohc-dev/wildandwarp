@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "7a0fb3d4aa706261ba64543b8edab8f0481cfd8d544fbd47df13db0a703ca38a"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/anvilcore.pw.toml"
 hash = "6cea29f80c69c77c7e4001668a3f72f15eb3eb33bb99ad9cfc8b004ce41ff018"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
 
 [[files]]
@@ -91,6 +101,11 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "ca3e99ea3869887268a3e2ccd64f011a0a43c1fb831371873738bee9cc3ed63b"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
 metafile = true
@@ -123,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/clavis.pw.toml"
+hash = "aee01693966b5055bbb2b3eb107356b5adb5e56449cf4373fce661e4f2322b8f"
 metafile = true
 
 [[files]]
@@ -188,6 +208,16 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "6ad424af2b8614fe9547f622a5b3d84d003eeffc6284a517aea90e377958a17a"
 metafile = true
 
 [[files]]
@@ -431,6 +461,11 @@ hash = "77109801093172dad01b0d62423eee91b317d23e094097760b065e980e8b10c2"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "fa1137faf7286f950ebf0dd28dbfb954c4c131c691c758646de589e35cb10e2e"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
@@ -531,13 +566,18 @@ hash = "4704d3dd8cd904577cbeeaaca9c30f93333af6a5f2c2476e197a7398b41153cf"
 metafile = true
 
 [[files]]
-file = "mods/falling-leaves-forge.pw.toml"
-hash = "107e17092cb624d106bddc63f2165f5e0461ca910e365a864bbae4c4f0de539d"
+file = "mods/fancymenu.pw.toml"
+hash = "8ed05d8afc47431512aeec8f974c4ca6b462f24db14c08347ef1777d808b3fd6"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
+metafile = true
+
+[[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "963fcd6045fa12baa20194e6097e7ede8114da021966f2b29addf72776966b52"
 metafile = true
 
 [[files]]
@@ -558,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-3.pw.toml"
+hash = "063326ed3a4ae2bc704b811b1b63e8003bb335c18951f656c5ad98ac15c8e09a"
 metafile = true
 
 [[files]]
@@ -651,6 +696,11 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "adef67b4c417e224f89e75fc8ce3c31a048ae07da1370a22321d73eb06140b14"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "faeaefc9bccf858f50d817b484eb6d4f4e494f84aaa34070d4abe62f8e0f4159"
 metafile = true
@@ -713,6 +763,16 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "623fb7357556b0ff5c67c9d68a1aabe3880c5efe8bf75670e8b7c821fb66fc31"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
 metafile = true
 
 [[files]]
@@ -788,6 +848,16 @@ metafile = true
 [[files]]
 file = "mods/luminous-nether.pw.toml"
 hash = "fc78b0c1a8ff576af16e2e21a43e5d7630a287bc519cb88a1ad6986e2414d537"
+metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+hash = "5634fdbd968dfd9fd3bce683f3474d34dc5d7753ed87574d713c15b41f88e8f9"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
 
 [[files]]
@@ -891,8 +961,18 @@ hash = "6adc69f6eb2a692aaaa6d19c8d79caf2daa8f60e347b9be365f3683d5c9c12d8"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "3fa9d58d6bbbd017e469b0c3abeddcfee722a0103b5c6590ac966dd8fb604992"
 metafile = true
 
 [[files]]
@@ -903,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/petrols-parts.pw.toml"
 hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
 
 [[files]]
@@ -973,6 +1058,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "eb438b9d4a49c0cc65560cdc295bf927cabc6f34319375a0cfbf3aece662add8"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
 
 [[files]]
@@ -1066,6 +1156,21 @@ hash = "589b0a221074fcc182839eb75bfc9d50c25a1bdb05c6f6d53099e6e5d84921e6"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "652bc2a41a85b48d4b4e8103b4be578326b42afad1cdcfb8257a114dd713f1bb"
+metafile = true
+
+[[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "2d3b5ce1e0841c7e98c97145dab66fd1a1321deb550ec545b9302bfaf80a1c5d"
+metafile = true
+
+[[files]]
+file = "mods/tooltip-overhaul.pw.toml"
+hash = "228b88c47247ad543e82543a467ca4c3754288773609a6b98fc3e7a152c112f3"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "164d9000bf1f25aafd1963f1b5d6000205a79ae960e3cc89177ad20eced26b31"
 metafile = true
@@ -1092,6 +1197,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/accuracy-crosshair.pw.toml"
+hash = "a9bb6ad7077aefbc0f982d9f9c18726f7d2f1c289580935399548590d91cdcae"
 metafile = true
 
 [[files]]

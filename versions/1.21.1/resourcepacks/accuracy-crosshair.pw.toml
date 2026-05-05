@@ -1,0 +1,13 @@
+name = "Accuracy Crosshair"
+filename = "AccuracyCrosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc104148cedcc7a4ebf39848567d2098688d96f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4532536
+project-id = 860642
