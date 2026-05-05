@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "ed0494f406f8e07efc2b27c394c7c2efe5c0be3a4dc96f00cb7ed3c7b9021648"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
 metafile = true
@@ -41,6 +46,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
 metafile = true
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "5c891436034d6663dc0c2eab6b44c46380556dea10f0bee35f9088ef6c0ecc9e"
 metafile = true
 
 [[files]]
@@ -68,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
 metafile = true
 
 [[files]]
@@ -101,6 +121,11 @@ hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -111,8 +136,48 @@ hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "eef3ee7ba1a3731edf183824a30c720132fcec5d55d83c734dd846bd2ebf92f4"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "fc49d6cf786feaabbb26ae0109498f5dab7c20fc939bdd650a38d46a31803e7c"
+metafile = true
+
+[[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "6b4c8da8574d795f59a1602d243abfbb540867fd27ad51abaae4a5c26c291cc8"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "e0eea3fa3d5911be14d85fcc5ded11206f7ea5c71adfb98a34e5fd08de693d0d"
+metafile = true
+
+[[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "6dfd3dfcd8ee3c8dca6b7ba7c4f849a4ba3c8d02ba2afc7af1538ddc82461862"
 metafile = true
 
 [[files]]
@@ -121,8 +186,28 @@ hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
@@ -138,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/createtippedarrows.pw.toml"
 hash = "bd924f8081c26b6397d20d4f45bcc72a2616e93f576dda9a0b63d71217c92390"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "77109801093172dad01b0d62423eee91b317d23e094097760b065e980e8b10c2"
 metafile = true
 
 [[files]]
@@ -243,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "68dea5aaacce3d37f90e1de5908cb7e85424f2439266eeafac1b17e8cabb8672"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
@@ -467,4 +562,14 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/eclipseshaders.pw.toml"
+hash = "5dd5c2fd5584d40e116f2564ec853fb2e1543029c2d1741f6bc62f640241e98b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true

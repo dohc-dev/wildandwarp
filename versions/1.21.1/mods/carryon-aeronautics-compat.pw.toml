@@ -1,0 +1,13 @@
+name = "Carry On + Create Aeronautics Compat"
+filename = "CarryOnAeroCompat-1.21.1-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpnDZ1Lx/versions/ndf2c2vG/CarryOnAeroCompat-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "cb063f0558d60f97718ddef39b9579e5082452914512d5ece4d528dc0b6814c2798d6e46568a38f7b011e0c33ddd6db2e9cea38fc9e85f84442db672d79066bf"
+
+[update]
+[update.modrinth]
+mod-id = "MpnDZ1Lx"
+version = "ndf2c2vG"
