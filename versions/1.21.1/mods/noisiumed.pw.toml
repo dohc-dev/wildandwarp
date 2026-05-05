@@ -1,0 +1,13 @@
+name = "Noisiumed"
+filename = "noisiumed-3.0.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "945592fb862d32676d62abaa4c473cf274c8ad59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7881170
+project-id = 1430156

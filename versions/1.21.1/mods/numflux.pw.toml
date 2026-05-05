@@ -1,0 +1,13 @@
+name = "NumFlux"
+filename = "NumFlux-1.0.2-1.21-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Bm2WDXm/versions/jfpYPsMk/NumFlux-1.0.2-1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "78bd9ef117e3725481bc7735d5a15e77fc28ee833ded5b3d406886af1a1a96d84e4c5bda5bb2d2201f43b5f84bb9bf45b7b671cd2e90d62390a13c68a7a6ea6e"
+
+[update]
+[update.modrinth]
+mod-id = "1Bm2WDXm"
+version = "jfpYPsMk"
