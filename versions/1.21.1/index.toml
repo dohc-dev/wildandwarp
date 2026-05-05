@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/aero_cam_sync.pw.toml"
-hash = "ed0494f406f8e07efc2b27c394c7c2efe5c0be3a4dc96f00cb7ed3c7b9021648"
-metafile = true
-
-[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
 metafile = true
@@ -212,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -223,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/createtippedarrows.pw.toml"
 hash = "bd924f8081c26b6397d20d4f45bcc72a2616e93f576dda9a0b63d71217c92390"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -286,6 +286,11 @@ hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
+metafile = true
+
+[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "3c50e06edc3cd34bb3fd519f42b71e662a3a5aa12a90f828209a7490bca5f521"
 metafile = true
@@ -336,6 +341,16 @@ hash = "68dea5aaacce3d37f90e1de5908cb7e85424f2439266eeafac1b17e8cabb8672"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "6c32b08de9fe127254e7dfd1bb8bf863d941d910be639012a7ffaa7a6d234c22"
+metafile = true
+
+[[files]]
+file = "mods/integrated-cataclysm.pw.toml"
+hash = "800f9dc331e81b5e042f3132ad7bdd8d6016ed235f5530d5237d685cc6cb2653"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
@@ -383,6 +398,26 @@ metafile = true
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "aef79b9deb5d4f2921ef8e4d58df69d8b71eaaded52149ed6aca41f0cf225be9"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "2f1a381eb3906c0a950c9d8516e8ea9d228015a468d495445062a42abc241a34"
+metafile = true
+
+[[files]]
+file = "mods/lenderscataclysm-delight.pw.toml"
+hash = "35a092ebb7190d43f3d7f88b23c72791da4e2b4ee5f97d54a91f70a35371f516"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "785513830b679834046baec7a2848f46a72d701548399131b8819ebfe4f0f5c8"
 metafile = true
 
 [[files]]
@@ -467,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "8d5ce8563d3ec96355ae4a3b1b5e6c9df02db833b12bdf7da5ba6322eaac20a4"
+hash = "7ae13b171ccba24c8ab09da63389eadada6bc902db9b957e9b9acd46605a17f6"
 metafile = true
 
 [[files]]
@@ -478,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
 
 [[files]]
@@ -493,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "dcce7f37c9f3da5854b4124285bf9cbfa9e4860de6ca1771e70e89c1b7601f1e"
 metafile = true
 
 [[files]]
@@ -541,6 +586,11 @@ hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "585973633ef03b8eb01b4bdeaedd21c7f2f5d588d1f5957941fab771852488a3"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ef870d22b5ee7e2718a1d849680d25103aae0f5a0b7c569b99032803ea772e68"
 metafile = true
@@ -561,7 +611,12 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cataclysm-reimagined.pw.toml"
+hash = "d6e3b262d2cc8c21ce0cb3255eee8e9ebdb7a823b61a4e0bd8641af04faa9579"
 metafile = true
 
 [[files]]
