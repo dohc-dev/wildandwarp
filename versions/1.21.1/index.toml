@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "1938dd33b85fcb42570430b0a568c17f52c7b86a77b30a980aef34f1782b214f"
+hash = "d5282b7a148f4fda7d1399815ee270f89a03ce8dcac67c848c64d0d0a1691671"
 metafile = true
 
 [[files]]
@@ -191,6 +191,11 @@ hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "72ea48eeb92f1122ca23268b337af3f95c06f05ad5988e4165b5a86902352ccf"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
 metafile = true
@@ -237,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
+hash = "09eebb772785be517df2452f80e26b8cf22d6981233ec13ddab44c4f7b9b8289"
 metafile = true
 
 [[files]]
@@ -433,6 +438,16 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/easy-craft-tweaker.pw.toml"
+hash = "dd270fbb11d35a6a1f83d2f622dc8a05f788708defcfd89539c25232387ae4ba"
+metafile = true
+
+[[files]]
+file = "mods/easy-mob-spawn-control.pw.toml"
+hash = "b98270eb3d8edfc7075feafaa6a20d7bd43a4797bf5d97d8ccb620c474c69d45"
 metafile = true
 
 [[files]]
@@ -651,6 +666,11 @@ hash = "a840bbcdf59a5b7c126b521d5747fff296597adc913bbe770cefdf7ab24c7653"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "aeb82b93a8948a84d4aff642bda7e969ad7d0d3182bff327973035ef11ad5a94"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "23304e6c503133b275b54c0527c908b91a596d4ddb5c56d4db002fdd122b49fe"
 metafile = true
@@ -826,6 +846,11 @@ hash = "bcd24eb0db2625488682ca538416a87a301543e5b68bff6633677a6780422db5"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "6acba5e53610fc3e62bd9641aeaaba056f99248a2d1d86bbf032061a1e408826"
+metafile = true
+
+[[files]]
 file = "mods/nemos-blooming-blossom.pw.toml"
 hash = "7f6b6d5e17f6c19b4f9f3cd7960be755084d878de966fd09d57ea21728c7cfbd"
 metafile = true
@@ -861,6 +886,11 @@ hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
+file = "mods/oculus-for-simpleclouds.pw.toml"
+hash = "6adc69f6eb2a692aaaa6d19c8d79caf2daa8f60e347b9be365f3683d5c9c12d8"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true
@@ -892,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "7ae13b171ccba24c8ab09da63389eadada6bc902db9b957e9b9acd46605a17f6"
+hash = "95c471b6c39cdbd356e555e647edb74a7993b2073795999a7b20146b383c10d1"
 metafile = true
 
 [[files]]
@@ -943,6 +973,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "eb438b9d4a49c0cc65560cdc295bf927cabc6f34319375a0cfbf3aece662add8"
+metafile = true
+
+[[files]]
+file = "mods/simple-clouds.pw.toml"
+hash = "b5aeca8406e74bb7722b4916dacb304373f64fb38716a70a6976608969ded970"
 metafile = true
 
 [[files]]
@@ -1006,8 +1041,13 @@ hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "40c3451b600561e087e03d03258b3491ccf730e27a42d0aa962e63b481ae7c27"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "585973633ef03b8eb01b4bdeaedd21c7f2f5d588d1f5957941fab771852488a3"
+hash = "52225540508caf7ed13645eaf4bfad106a8f13d7c8d62a9b9e24a42bab91fad7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Item Obliterator (Modpack Utils Series)"
+filename = "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cb46a873376d7ded387e175bf30181fcc079c15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6696097
+project-id = 835861

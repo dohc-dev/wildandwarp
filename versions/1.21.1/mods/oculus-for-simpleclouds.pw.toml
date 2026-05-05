@@ -1,0 +1,13 @@
+name = "Iris/Oculus For Simple Clouds"
+filename = "oculus_for_simpleclouds-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc40d5acdc7967fe29940f533bbb217846567322"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7242856
+project-id = 1386686

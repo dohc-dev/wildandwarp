@@ -1,0 +1,13 @@
+name = "Easy CraftTweaker"
+filename = "easy_tweaker-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c2b11dd52bfa16b125044b183e557bae5d12530"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7649264
+project-id = 1361340
