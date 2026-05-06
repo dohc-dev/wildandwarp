@@ -1,0 +1,13 @@
+name = "Eco Stack Manager"
+filename = "eco_stack_manager-neoforge-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a7abdd6198d09736a4722e6d9e0a5b7be906790"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6879012
+project-id = 1067929
