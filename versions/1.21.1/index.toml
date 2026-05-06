@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "09eebb772785be517df2452f80e26b8cf22d6981233ec13ddab44c4f7b9b8289"
+hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
+hash = "d2d2b14614ad6820caffa69219414d491d59280685662cbe808f5df33c687555"
 metafile = true
 
 [[files]]
@@ -1154,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "837c0b55831062fffd281e63b5381a56bf3aa76aebc974a2f56fef3b2e3d1c06"
+hash = "e6f7c1b43dbb3a62dd8638228eb17a942a37e6aa50a8f32e9625769c6d4e090e"
 metafile = true
 
 [[files]]
