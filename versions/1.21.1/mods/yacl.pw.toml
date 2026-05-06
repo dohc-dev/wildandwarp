@@ -1,6 +1,6 @@
 name = "YetAnotherConfigLib"
 filename = "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

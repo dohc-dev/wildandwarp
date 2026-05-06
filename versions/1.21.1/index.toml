@@ -773,11 +773,6 @@ hash = "221244d69134b0270a848ae4bc2eb99b73ee997d0beb491d1397d894f60bc3ac"
 metafile = true
 
 [[files]]
-file = "mods/jadens-nether-expansion.pw.toml"
-hash = "fcf0d02f66ae2bc753d8192947bc1572c51d21ddcc3599477534bfcddabdb0e9"
-metafile = true
-
-[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "af8428daaf08a29dec8f58f71bcd9e32bf564203754f71b184f6ebb8b09a0c77"
 metafile = true
@@ -1018,16 +1013,6 @@ hash = "3fa9d58d6bbbd017e469b0c3abeddcfee722a0103b5c6590ac966dd8fb604992"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "464882c38aa9b0dbcc65e345c4aee6db2f6fa71ecbfc84aaa652021c73408b99"
-metafile = true
-
-[[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "7021445d41682a36f1e8702d713a7ad004792e486d35b63487c2c91c203e7c6a"
 metafile = true
@@ -1243,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b253b695322802d24cde85a9cbb7b9084abff52eec5042c3123a797e0d30ab5c"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
