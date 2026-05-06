@@ -1,6 +1,6 @@
 name = "Iris/Oculus For Simple Clouds"
 filename = "oculus_for_simpleclouds-0.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
