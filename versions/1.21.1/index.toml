@@ -403,11 +403,6 @@ hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
 
 [[files]]
-file = "mods/create-sable-lambdynamiclights.pw.toml"
-hash = "9ff25aa355fc8d0c2804b1f41b61abe56ac4f4240053cc5dbedaa188ebc27b36"
-metafile = true
-
-[[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
 metafile = true
@@ -834,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "177af2a4d5072f2e055062f70a5ea780d821785ceae82d5378df3ba7cbc95665"
+hash = "3d3ed33673e54ea000116c1309de659503e05457104e9a68a236bab475341f3a"
 metafile = true
 
 [[files]]
@@ -1024,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
