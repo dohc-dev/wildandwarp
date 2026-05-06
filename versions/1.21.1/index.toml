@@ -2152,7 +2152,7 @@ metafile = true
 
 [[files]]
 file = "mods/eco-stack-manager.pw.toml"
-hash = "4b0581ef64c2ceba4d6346926799650b027b6ccc8930ce51dada788b0dc4d506"
+hash = "b0580213dc394c8d6eaf320b3e7352a830f9b218b6e0b83dc0b988eccffbfdcf"
 metafile = true
 
 [[files]]
