@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
+hash = "a4c94fb62645cf17cd2ef17942ac561ce43c154cb33deb4c817fb803e872d228"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-better-fps.pw.toml"
-hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
+hash = "a7250c8da96a2033b7e72213cbbcdad0601cb0750639e49d321f19776c8d0c87"
 metafile = true
 
 [[files]]
@@ -458,11 +458,6 @@ hash = "7aa0060e5df8631d27a789d73eb57d67c611b95be5bce4175810351e9479ae60"
 metafile = true
 
 [[files]]
-file = "mods/createbetterfps.pw.toml"
-hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
-metafile = true
-
-[[files]]
 file = "mods/createtippedarrows.pw.toml"
 hash = "bd924f8081c26b6397d20d4f45bcc72a2616e93f576dda9a0b63d71217c92390"
 metafile = true
@@ -624,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "3c50e06edc3cd34bb3fd519f42b71e662a3a5aa12a90f828209a7490bca5f521"
+hash = "ba39fb600e9b24ce57cbb0b63b7a9c050dd1fa770f5fd28bfb919132737e8a57"
 metafile = true
 
 [[files]]
@@ -769,12 +764,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
+hash = "49e1313f8a664f6f53c6045a1b9499787aaf4d9d014e4decc376c7c6fe0b3a68"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+hash = "221244d69134b0270a848ae4bc2eb99b73ee997d0beb491d1397d894f60bc3ac"
 metafile = true
 
 [[files]]
@@ -979,7 +974,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
+hash = "9bc4e7441edda5d7c4bd0eecbec30dc3ebe99675d8e812938444685a366edc92"
 metafile = true
 
 [[files]]
@@ -1034,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
+hash = "7021445d41682a36f1e8702d713a7ad004792e486d35b63487c2c91c203e7c6a"
 metafile = true
 
 [[files]]
@@ -1094,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
@@ -1219,7 +1214,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-overhaul.pw.toml"
-hash = "228b88c47247ad543e82543a467ca4c3754288773609a6b98fc3e7a152c112f3"
+hash = "b2b702ecc89b1fc2e2508285dae2a6ea4961e588cf533fb240634a7b7081aec1"
 metafile = true
 
 [[files]]
@@ -1248,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+hash = "b253b695322802d24cde85a9cbb7b9084abff52eec5042c3123a797e0d30ab5c"
 metafile = true
 
 [[files]]
