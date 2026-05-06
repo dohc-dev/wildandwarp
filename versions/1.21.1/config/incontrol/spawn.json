@@ -1,0 +1,29 @@
+[
+  {
+    "dimension": "minecraft:overworld",
+    "mod": [
+      "alexsmobs",
+      "it_takes_a_pillage",
+      "naturalist",
+      "crittersandcompanions"
+    ],
+    "result": "default"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": [
+      "minecraft:pillager",
+      "minecraft:evoker",
+      "minecraft:vindicator",
+      "minecraft:illusioner",
+      "minecraft:ravager",
+      "minecraft:silverfish"
+    ],
+    "result": "default"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "hostile": true,
+    "result": "deny"
+  }
+]
