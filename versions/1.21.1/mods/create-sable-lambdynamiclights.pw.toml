@@ -1,0 +1,13 @@
+name = "Create/Sable LambDynamicLights"
+filename = "Create_Sable_LambDynamicLights_2.4.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "dfe9e97a36415e752e3888909d081e092a3fd02a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8017496
+project-id = 1529865
