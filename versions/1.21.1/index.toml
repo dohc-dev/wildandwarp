@@ -2126,6 +2126,11 @@ hash = "ed31b4b816703ac3f1f00e52be969bd1fb7f7f54326bbb2ca863e85345a1eabe"
 metafile = true
 
 [[files]]
+file = "mods/dsbg.pw.toml"
+hash = "747593d2c06ee38e577c428f05d32ee749df27a4be39cbfe43c5024619904234"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true

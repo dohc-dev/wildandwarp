@@ -1,0 +1,13 @@
+name = "Detected setBlock Be Gone"
+filename = "dsbg-1.0-1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zv7fYVyQ/versions/FMnTQvft/dsbg-1.0-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "aa0c0240af1ba95d6afa4582503be90ac1d3ac307eabf889afec1c092f2760e3f80d9d3dbcd4144e4361bb150fe48c675e4947477028a9cb7636a91dfccca697"
+
+[update]
+[update.modrinth]
+mod-id = "zv7fYVyQ"
+version = "FMnTQvft"
