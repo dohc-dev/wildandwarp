@@ -1,39 +1,35 @@
 [
   {
-    "comment": "1. GLOBAL EXEMPTIONS: Keep Centipedes gone and throttle Quark clusters everywhere",
-    "mob": "alexsmobs:centipede",
+    "mob": ["alexsmobs:centipede", "alexsmobs:seagull"],
     "result": "deny"
   },
   {
     "mob": ["quark:stoneling", "quark:toretoise"],
     "result": "deny",
-    "chance": 0.85
+    "random": 0.85
   },
   {
-    "comment": "2. ANCIENT CITY PROTECTION: Allow Warden and Deep Dark spawns to bypass later nerfs",
     "mob": [
       "minecraft:warden",
       "deeperdarker:sculk_snapper",
-      "deeperdarker:shriek_worm"
+      "deeperdarker:shriek_worm",
+      "deeperdarker:stalker"
     ],
     "result": "default"
   },
   {
-    "comment": "3. OVERWORLD WHITELIST: Keep modded creatures and specific raid mobs at full rates",
     "dimension": "minecraft:overworld",
     "mod": ["alexsmobs", "it_takes_a_pillage", "naturalist", "crittersandcompanions"],
     "result": "default"
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": ["minecraft:pillager", "minecraft:evoker", "minecraft:vindicator", "minecraft:illusioner", "minecraft:ravager", "minecraft:silverfish"],
+    "mob": ["minecraft:pillager", "minecraft:evoker", "minecraft:vindicator", "minecraft:ravager", "minecraft:silverfish"],
     "result": "default"
   },
   {
-    "comment": "4. OVERWORLD HOSTILE NERF: 50% reduction for anything not listed above",
     "dimension": "minecraft:overworld",
     "hostile": true,
     "result": "deny",
-    "chance": 0.50
   }
 ]
