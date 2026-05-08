@@ -1,6 +1,6 @@
 name = "FastBoot"
 filename = "fastboot-1.21.x-v1.3neo.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

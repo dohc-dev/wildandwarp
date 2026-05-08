@@ -1930,6 +1930,10 @@ hash = "6cea29f80c69c77c7e4001668a3f72f15eb3eb33bb99ad9cfc8b004ce41ff018"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw copy.toml"
+hash = "d7059efc26b419ddfc43aeef8a3ceddf098edafe0cfbcde611f30bf3e2973de8"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d7059efc26b419ddfc43aeef8a3ceddf098edafe0cfbcde611f30bf3e2973de8"
 metafile = true
@@ -2480,8 +2484,12 @@ hash = "ba39fb600e9b24ce57cbb0b63b7a9c050dd1fa770f5fd28bfb919132737e8a57"
 metafile = true
 
 [[files]]
+file = "mods/fastboot-1.21.x-v1.3neo.jar"
+hash = "23f44f8b2c479a4242f070e118c6dfe8084942b12d125743e784e121d076ad8d"
+
+[[files]]
 file = "mods/fastboot.pw.toml"
-hash = "ee1fe878e4633a949efd3dd2fe99fba52e8c33cbe83feb4cbe878fbad24e2566"
+hash = "04be8ab614602a3d15d51ac196964e520aaf36573eb24f9750cf3d4d2a922363"
 metafile = true
 
 [[files]]
