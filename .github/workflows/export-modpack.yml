@@ -1,0 +1,59 @@
+name: Export Modpack
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Add Go bin directory to PATH
+        run: echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
+      - name: Export CurseForge pack
+        run: packwiz cf export
+
+      - name: Find exported archive
+        id: archive
+        run: |
+          latest_zip=$(find . -maxdepth 1 -type f -name '*.zip' -printf '%T@ %p\n' | sort -n | tail -1 | cut -d ' ' -f2-)
+          if [ -z "$latest_zip" ]; then
+            echo "No exported zip was found."
+            exit 1
+          fi
+          echo "path=$latest_zip" >> "$GITHUB_OUTPUT"
+          echo "name=$(basename "$latest_zip")" >> "$GITHUB_OUTPUT"
+
+      - name: Upload release asset
+        if: github.ref_type == 'tag'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ${{ steps.archive.outputs.path }}
+          fail_on_unmatched_files: true
+
+      - name: Upload workflow artifact
+        if: github.ref_type != 'tag'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.archive.outputs.name }}
+          path: ${{ steps.archive.outputs.path }}
+          if-no-files-found: error
+*** End Patch

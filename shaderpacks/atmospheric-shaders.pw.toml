@@ -1,0 +1,13 @@
+name = "Atmospheric Shaders - NEW LOGO"
+filename = "AtmosphericShaders_0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JJENX1BH/versions/EcFMUvB5/AtmosphericShaders_0.1.zip"
+hash-format = "sha512"
+hash = "fd75d25bb4fdf445e2d68322e429316debf118344cc90ee2060bc40d4098b7fa4b4c5980dd5ca115e125d02c59fce41efa1c9adbf8ccb3f0aa6eff51c6830b6d"
+
+[update]
+[update.modrinth]
+mod-id = "JJENX1BH"
+version = "EcFMUvB5"

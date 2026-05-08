@@ -1,12 +1,12 @@
-name = "wildandwarp"
+name = "citratus"
 author = "dohc-dev"
-version = "0.0.1"
+version = "1.12.1-v0.3.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "27f4df6cd7e079cc86f07fce75bfa279cd52fe03ed0a9fce02b647fd20cd5da1"
+hash = "5613ef3b3433e65fbd586f02f0bafa71a06e286b89e407051e382a200e7b94be"
 
 [versions]
 minecraft = "1.21.1"

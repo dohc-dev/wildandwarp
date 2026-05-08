@@ -25,3 +25,4 @@
 -XX:SurvivorRatio=32
 -XX:+PerfDisableSharedMem
 -XX:MaxTenuringThreshold=1
+--enable-native-access=voxy,org.lz4.java

@@ -30,6 +30,6 @@
   {
     "dimension": "minecraft:overworld",
     "hostile": true,
-    "result": "deny",
+    "result": "deny"
   }
 ]

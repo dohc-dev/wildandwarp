@@ -234,7 +234,7 @@ hash = "8cc7c7abb485d30acd5ee080c87f3fbb5c5138c9751de9140d9a464981a68629"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "c69f3fbbcb2369b0ee9cdfec092c6f5bdd36d540f3f38f31561a02c92a9c7069"
+hash = "12fd7622aa7a5bee1c5c1f395370f19fe723b4f09bfc1a0d739a206d207cf070"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -3241,6 +3241,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
 hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/atmospheric-shaders.pw.toml"
+hash = "fdc2ecf87df235ccbdd948ed348622d63aa7908bd1f2330c1c09e0813c97e222"
 metafile = true
 
 [[files]]
