@@ -2480,6 +2480,11 @@ hash = "ba39fb600e9b24ce57cbb0b63b7a9c050dd1fa770f5fd28bfb919132737e8a57"
 metafile = true
 
 [[files]]
+file = "mods/fastboot.pw.toml"
+hash = "ee1fe878e4633a949efd3dd2fe99fba52e8c33cbe83feb4cbe878fbad24e2566"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
@@ -3064,6 +3069,16 @@ hash = "40c3451b600561e087e03d03258b3491ccf730e27a42d0aa962e63b481ae7c27"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "52225540508caf7ed13645eaf4bfad106a8f13d7c8d62a9b9e24a42bab91fad7"
 metafile = true
@@ -3143,6 +3158,22 @@ hash = "3c4054d48b6485ddc057d6d52244e47485320f67940d39754cd2673285a2733d"
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/Create FTB Quests 1.0.zip"
+hash = "ada1cf621a58f8fbb637e748ce06182772c32488101c30a7546e98d415bd1f10"
+
+[[files]]
+file = "resourcepacks/Create LootR Chest.zip"
+hash = "04bfc424629cbbeeb0d2cfa88cfee388da893b84f55906aba2e8f8136368941c"
+
+[[files]]
+file = "resourcepacks/Create_Style_for_Refined_Storage.zip"
+hash = "2000718c3b8c34ed0b4a88e753ae3346f8f8eb5b99204234b96e6e3c48bdfc6c"
+
+[[files]]
+file = "resourcepacks/SmartCompass_v2.2.zip"
+hash = "9caca33a3a206e30e2d28f112072052bb1db66ddc7b8d1f37d5a058268632484"
 
 [[files]]
 file = "resourcepacks/accuracy-crosshair.pw.toml"
