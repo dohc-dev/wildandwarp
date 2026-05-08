@@ -1,13 +1,13 @@
 name = "Iris & Oculus Flywheel Compat"
-filename = "iris-flywheel-compat-NeoForge-2.3.1.jar"
+filename = "iris-flywheel-compat-NeoForge-2.4.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/3G0VTkyj/iris-flywheel-compat-NeoForge-2.3.1.jar"
+url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/6ZQz5Ow2/iris-flywheel-compat-NeoForge-2.4.0.jar"
 hash-format = "sha512"
-hash = "83d76418ed67b01d58fd3d6c75ba40be70794b8336b54b10126acc2670f176f640a0f1b564d4ce6a7725a487a6970995849f8d0631750b4e290fb3eef40277b0"
+hash = "192e5f00f2c146d2920867d7cd691ecec7ddd2acfb95880cc59084e8949225db92ecfb9221ba7223fc924ec43f2ca861115f83f9dc3f79e14a2f2a8db5287070"
 
 [update]
 [update.modrinth]
 mod-id = "ndHYMY2K"
-version = "3G0VTkyj"
+version = "6ZQz5Ow2"

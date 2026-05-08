@@ -1,13 +1,13 @@
 name = "FTB Backups 3"
-filename = "ftb-backups-3-21.1.3.jar"
+filename = "ftb-backups-3-21.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6732996ba72169f135bb4735ca83482d7e8bda18"
+hash = "bcd2e1db2a69dc3b979d106a414a7ec3119f0335"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6720131
+file-id = 8053183
 project-id = 1294188

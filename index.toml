@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/export-modpack.yml"
-hash = "df37897a05c84cfcfd9f5adfaceca622bc249b437450836c753174511e989a14"
-
-[[files]]
-file = "GEMINI.md"
-hash = "64bb19a9cdb03aac46a76a6cb3b7e7bad631ef04a2209318ca61989832394ff4"
-
-[[files]]
-file = "README.md"
-hash = "e979c0c20a3ad01152acf667d41ac076ad14237a9506119566d30b396dc54906"
-
-[[files]]
 file = "config/Icl/ICL.json"
 hash = "65a93d1b20f87dc29c6257052ba35acdd92b9852d84822df2612b33b7ba026b7"
 
@@ -53,6 +41,10 @@ file = "config/fancymenu/assets/cf2.png"
 hash = "df2c36f999fc892f8d0861b178ed5174fb6c823a3e1755c3d9ef13ee38aa5d9b"
 
 [[files]]
+file = "config/fancymenu/assets/citratus.jpg"
+hash = "5cb667700014fb80279c99de319ed9e4624a9065a1e4cedd24d964335e5d9775"
+
+[[files]]
 file = "config/fancymenu/assets/discord1.png"
 hash = "8673bb4004a9cfc0130c600c80fb646d995e7d24dded498cc113591516a613e3"
 
@@ -63,6 +55,10 @@ hash = "7ef6bc01d8a1fc3543ff763a575b0c09d6a9e59b0cf967f25e2f471932fd661b"
 [[files]]
 file = "config/fancymenu/assets/logo1.png"
 hash = "e9af983ce09430d6e6d18406957b1dcdcc3ce962b5b839004d9c19ea9a1743d5"
+
+[[files]]
+file = "config/fancymenu/assets/logo2.png"
+hash = "7461d64a7e8c0a4c4f8f3ffd7d0e6484e684c7f52765ab3c2e5a00471721d498"
 
 [[files]]
 file = "config/fancymenu/assets/ls.png"
@@ -271,6 +267,10 @@ hash = "e4c21242b173ea46921c0b48e59c9db34cdb73743b60bc33da29b4890dd5e068"
 [[files]]
 file = "config/voxy_server_lod-common.toml"
 hash = "373a96f538e97161c8833ccaee3fd663277b389a32f5da0656dbbd23889e8d19"
+
+[[files]]
+file = "export-mrpack.sh"
+hash = "45ccb05425bce11afbb682a830c5937d37018a03d1cac7a92970f4362d088948"
 
 [[files]]
 file = "journeymap/config/6.0/addons/addon.jmws.config"
@@ -2094,7 +2094,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
-hash = "f887f8c72a61d9d2c7acc5702ebad04fb7e52a7b7eb960bb7fd815cc8492e9dd"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
 
 [[files]]
@@ -2129,7 +2129,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a4c94fb62645cf17cd2ef17942ac561ce43c154cb33deb4c817fb803e872d228"
+hash = "51ad699a9877ab770f0b34cd5c348e0bd192eca81cdcd5a389434f0a184345fa"
 metafile = true
 
 [[files]]
@@ -2454,7 +2454,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
+hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
@@ -2513,7 +2513,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-3.pw.toml"
-hash = "063326ed3a4ae2bc704b811b1b63e8003bb335c18951f656c5ad98ac15c8e09a"
+hash = "91371e767cca592ce1733354ffc27f8ad11dc11f38e4ba3bb8606724edd4ab21"
 metafile = true
 
 [[files]]
@@ -2623,7 +2623,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "faeaefc9bccf858f50d817b484eb6d4f4e494f84aaa34070d4abe62f8e0f4159"
+hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
 metafile = true
 
 [[files]]
@@ -2688,7 +2688,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "623fb7357556b0ff5c67c9d68a1aabe3880c5efe8bf75670e8b7c821fb66fc31"
+hash = "6776fa5392b56c501aa837af9e40ac90d98962b8bc9d0f1f675317325f1e57ac"
 metafile = true
 
 [[files]]
@@ -2738,7 +2738,7 @@ metafile = true
 
 [[files]]
 file = "mods/lever-durgster.pw.toml"
-hash = "2b096859bd960e0e9392305daf79aeecfc3302580b5f585dc282627f7e7b3413"
+hash = "c9df33207ebcdfbe2ff8c6a72aaf3d65b79b8dcb12947f93a2337d643f5c1d10"
 metafile = true
 
 [[files]]
@@ -2798,7 +2798,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
+hash = "16baa1b1aeaf3f7b190c8b2f758cd75207dc573f73ad2cf02534571f59f15a8e"
 metafile = true
 
 [[files]]
@@ -2813,7 +2813,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d2d2b14614ad6820caffa69219414d491d59280685662cbe808f5df33c687555"
+hash = "7862ee4443273e49cd365331f05e0514d3f798a9ced3e5d8b6dd103dd7e92e1a"
 metafile = true
 
 [[files]]
@@ -2938,7 +2938,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "95c471b6c39cdbd356e555e647edb74a7993b2073795999a7b20146b383c10d1"
+hash = "1cb4d10e4920284d982c90a2145d57bb09d754f04e83cb0f9aae6bd45f3d2d2b"
 metafile = true
 
 [[files]]
@@ -3092,7 +3092,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "52225540508caf7ed13645eaf4bfad106a8f13d7c8d62a9b9e24a42bab91fad7"
+hash = "98d78c67c203a2c4ee387326c38edfcbe92a813346920b7762f607e1537ed4ea"
 metafile = true
 
 [[files]]
@@ -3152,6 +3152,11 @@ hash = "5cf94fbb429465d96da1355cf06bbe1365f57096ae320c042d46582a166aa565"
 [[files]]
 file = "mods/voxy-auto-lod.pw.toml.disabled"
 hash = "c8f9e16a7410a90e0fcd5c5607a30fe90ff5539718e3767b54b57f7799b0c8ec"
+
+[[files]]
+file = "mods/world-preview-neoforged-(unofficial).pw.toml"
+hash = "1753fa04f30e151acf0fbd649b6f75378da50d4f2dc2e28989aabae2836ca4d8"
+metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
@@ -3250,6 +3255,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/atmospheric-shaders.pw.toml"
 hash = "fdc2ecf87df235ccbdd948ed348622d63aa7908bd1f2330c1c09e0813c97e222"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true
 
 [[files]]
