@@ -1,13 +1,13 @@
 name = "L_Ender 's Cataclysm Reimagined"
 filename = "Cataclysm Reimagined v1.3.5 for NeoForge.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "c7a6be4839445c1a494a9aa961bb3c512ab35c4b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/jLzGG7fO/versions/8HKNWDJd/Cataclysm%20Reimagined%20v1.3.5%20for%20NeoForge.zip"
+hash-format = "sha512"
+hash = "ff71975fb19ee7a7129d94a48ac93cf7bd36c007fd7d326e416d7fea9f385dc5814334484e07df821e354778c4fbd13c5879c2e5dbf7823111b60d6f20d7e267"
 
 [update]
-[update.curseforge]
-file-id = 7606031
-project-id = 1212044
+[update.modrinth]
+mod-id = "jLzGG7fO"
+version = "8HKNWDJd"

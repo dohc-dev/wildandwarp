@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "GEMINI.md"
+hash = "64bb19a9cdb03aac46a76a6cb3b7e7bad631ef04a2209318ca61989832394ff4"
+
+[[files]]
+file = "README.md"
+hash = "e979c0c20a3ad01152acf667d41ac076ad14237a9506119566d30b396dc54906"
+
+[[files]]
 file = "config/Icl/ICL.json"
 hash = "65a93d1b20f87dc29c6257052ba35acdd92b9852d84822df2612b33b7ba026b7"
 
@@ -11,6 +19,214 @@ hash = "e2e60a9c871670de47172eee9d817271e5a9b6caa6c8f3353ed6a81c4310679b"
 [[files]]
 file = "config/bclib/main.json"
 hash = "cb8a9cf255848cb68f00eadbaf83d5d2e62a1b21f265c46df9f09818107b5538"
+
+[[files]]
+file = "config/drippyloadingscreen/early_window_reference.properties"
+hash = "e8dea2d36fb919214f8ae655cba469d24cb75fef6cc9f47fec94576e4850467c"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "e62bf4dd3779404049b89a3db8e2c72a5451480a588c110724d611eb7f402b91"
+
+[[files]]
+file = "config/fancymenu/assets/10.png"
+hash = "595e3d75eb248711be85c2874e0211ef28726c4d470670a7d69d49a92d3b87a9"
+
+[[files]]
+file = "config/fancymenu/assets/11.png"
+hash = "b1c324e0507c6fc4cc9b225ab77e79f1528620d5337037f43c921370a10111f4"
+
+[[files]]
+file = "config/fancymenu/assets/bg.png"
+hash = "156b27a0e529f083d537b74c2480c507c89a6e075ab3338c96959c2f093224cc"
+
+[[files]]
+file = "config/fancymenu/assets/cf1.png"
+hash = "ad35909cfd7da173d51e0b1cd9bbc2984f90e3f74298453060f6f4693c95297e"
+
+[[files]]
+file = "config/fancymenu/assets/cf2.png"
+hash = "df2c36f999fc892f8d0861b178ed5174fb6c823a3e1755c3d9ef13ee38aa5d9b"
+
+[[files]]
+file = "config/fancymenu/assets/discord1.png"
+hash = "8673bb4004a9cfc0130c600c80fb646d995e7d24dded498cc113591516a613e3"
+
+[[files]]
+file = "config/fancymenu/assets/discord2.png"
+hash = "7ef6bc01d8a1fc3543ff763a575b0c09d6a9e59b0cf967f25e2f471932fd661b"
+
+[[files]]
+file = "config/fancymenu/assets/logo1.png"
+hash = "e9af983ce09430d6e6d18406957b1dcdcc3ce962b5b839004d9c19ea9a1743d5"
+
+[[files]]
+file = "config/fancymenu/assets/ls.png"
+hash = "570f28d80222ed7da74eed38f688dd0e44b981401ebe6f2502510953319d0cd7"
+
+[[files]]
+file = "config/fancymenu/assets/youtube1.png"
+hash = "5e04a83aad51c65e16a33bc6a9003d26023383ac401c167103d8aec06984ce5a"
+
+[[files]]
+file = "config/fancymenu/assets/youtube2.png"
+hash = "596ef294f60c7a5a5ca12833bf7a5431ca6b25c370f89c8da4c3265ac8b9b42e"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.alexthe6646.iceandfire.client.gui.iceandfiremainmenu_layout_1.txt"
+hash = "2a910b4d25ab85c5262604bb396e64b09d6aed609b120c0247731bcb9a629d96"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.alexthe666.iceandfire.client.gui.iceandfiremainmenu_layout.txt"
+hash = "507b49efaf14dada05d4ad26fc8ebac77025cf5cf5933958588b505e70b68fe2"
+
+[[files]]
+file = "config/fancymenu/customization/loading.txt"
+hash = "f6a7d17313b4348c21cfd5876585d41681de041d789a923c52e47cfbd8cdbd6d"
+
+[[files]]
+file = "config/fancymenu/customization/menu.txt"
+hash = "7860d99ba914a0099974acae471be19b5785c9558e7cb02fca0df373d6d8ef34"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "2050e6f32e89ceaf7f82e7f6c05aec6a95f0c87219982321af086ed1e1689a89"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama/panorama/panorama_0.png"
+hash = "def626be2f0fa6de35b11778c0129ef8692e6b2aba5fa1f0ae705f4d6ac8e625"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama/panorama/panorama_1.png"
+hash = "0ef1f58fa9a9655519981aeefdb4cd6e0bc0ea0645c21b0ed556327cab12a374"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama/panorama/panorama_2.png"
+hash = "6bef0cc14a4db7bf8fdc3a595b1e953b66fe336f231e6b9d08d31ba45789c6d6"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama/panorama/panorama_3.png"
+hash = "9ce9f5e7fd470e38404d109d695c6a98ae68bdb7392877e3c59072940321b590"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama/panorama/panorama_4.png"
+hash = "3401800a4195f1c9d9c1461879a0f1a9cdcde8e4e54a27eae1d763425ac00cfe"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama/panorama/panorama_5.png"
+hash = "0820c161004e1e6c4cc8fffc76ce5dc8cf42536355d17e85127f156e010c43fc"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama/properties.txt"
+hash = "711d5deb747eeb643c38cd4724b1cbcc4a478d1a47d4000af959166c3d190c96"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/fancymenu/video_element_controller_metas.json"
+hash = "50e8ebf3dcf95c951e649a0cff7b2334222857cc5c12e92bcf303ffdab150ce9"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "5a48a330dca76beb975108390e636466458b0c3aebd47c409364048b9fbb67d5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/aeronautics.snbt"
+hash = "1088007522175e94ddf9b2352a11aba4b7cce647e1ab4dd3231922dcb5c66efd"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/confectionary.snbt"
+hash = "c179c51946c04e71abb88dcc0ea932ab17b40b61cead02ed8a3570a3373fbdd0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/connected.snbt"
+hash = "f264aae49a61b2a98a02b92cfb232af310a9738a29d553d28dda7bd01c42fe1c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/crafts_and_additions.snbt"
+hash = "0fec534da011e7af09b86145d36cd7dbe5bf985d0d80ae9a793cb89fdcff1fef"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_58FD0DDD46EF0A83.snbt"
+hash = "9b2e4c35bfe1c8dc8ec63ded829087d086ebe7f81c08286e143f62ecbb739f39"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_diesel_generators.snbt"
+hash = "0f4e3e9d6ba41d204cc0bc02c3bc589048a77ade986de74a5fb81239cffff648"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_stuff_and_additions.snbt"
+hash = "45c6a59f3de24fc1cc0faa4b8531e836cb437970e343bff0c0c902467289b66b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/enchantment_industry.snbt"
+hash = "af402ec450f9afef4c93c62efcf50681bad464bf1d43fd6c4275e585092e88b3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
+hash = "4b28ead06e38fed90266cb9abfd39aabbc1317d2ab81ff648a08f1ad8b0ea3ad"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/handy_stuff.snbt"
+hash = "91726c2331bbadb2881629c46cd6e29ccec1c9167f1ae9183aa7264e6da767c2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/minecolonies.snbt"
+hash = "374eb88566059cfa88778626d496487a1358f3ebc672035c496486b9a9a9a31c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mob_spawners.snbt"
+hash = "df430a0714af1889461d5b24d66ff76223b8abd1b6627cca9d6a9a7ebcb694de"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/new_age.snbt"
+hash = "5d646bdad15cb07332859e5258cdd93f28b2e71caf465bbc68cc1d8795e3f0b3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/sophisticated_systems.snbt"
+hash = "3c64cb8cb790095276bc01970e62b5134b8233ad045b9e6cd92dbb34b6456fc1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/trading_floor.snbt"
+hash = "eb50c92361f02f80fa807021d51627b9d646f608502bf8596bcbd3f8ee3af087"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome_chapter.snbt"
+hash = "e59fcb29b8d1a76c9791bd66933c36a8c3f900eece6379bd5b9446a00d7cc5aa"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "df92fd6b31e38ecbe9761f6ca2260e1b19eb9bcce38e9116565733ad47078b76"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "fadcd1b08ae5eccf34d1a763a65318f41627d3a4187c2041ce37e02160eaed5f"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -2324,6 +2540,11 @@ hash = "43287a3c5030a05b370b45ec1ab9a4a8d5c3d43e9c740aae5218f07ffd041fd2"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
@@ -2808,6 +3029,11 @@ hash = "e6f7c1b43dbb3a62dd8638228eb17a942a37e6aa50a8f32e9625769c6d4e090e"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "1e0e4292870a22a5a2bf76f70eca35391d065f1d2213f92b60149b03167a0a82"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
@@ -2873,6 +3099,11 @@ hash = "b2b702ecc89b1fc2e2508285dae2a6ea4961e588cf533fb240634a7b7081aec1"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "164d9000bf1f25aafd1963f1b5d6000205a79ae960e3cc89177ad20eced26b31"
 metafile = true
@@ -2906,6 +3137,10 @@ hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "3c4054d48b6485ddc057d6d52244e47485320f67940d39754cd2673285a2733d"
+
+[[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
@@ -2915,8 +3150,13 @@ hash = "a9bb6ad7077aefbc0f982d9f9c18726f7d2f1c289580935399548590d91cdcae"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cataclysm-reimagined.pw.toml"
-hash = "d6e3b262d2cc8c21ce0cb3255eee8e9ebdb7a823b61a4e0bd8641af04faa9579"
+hash = "d301ad5b4180debc63f81d4c399a9d18ceab8d97ec367c44aa64621a0b115875"
 metafile = true
 
 [[files]]
@@ -2931,12 +3171,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-storages.pw.toml"
-hash = "4aa679c0f51fd71c1cb353cbc948962f4d53184a83f8db57eb2b893d94492372"
+hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
 metafile = true
 
 [[files]]
@@ -2945,13 +3185,13 @@ hash = "d889148caf26ebcbb78274d82511e00bdf84bed97606ec77625b97f29930e9ad"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-style-gui.pw.toml"
-hash = "f0d5d5fa95886c546a44da78f419d736b34736d653906ceb75120f5e6ce50f36"
+file = "resourcepacks/create-style-interface.pw.toml"
+hash = "b8b5779ab7bae27e137fcab4cb1d5c675e6d960ce91961fceb421ebb5dad0eee"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-trash-cans.pw.toml"
-hash = "afe3e5d1c001c145ee3e49029df8d6e0288009bb79159c0e97bec158fcadeb75"
+hash = "24633397f6518ff2fe2728a143ec30bea9ceb3d4f1a9b41803996c5150f532f2"
 metafile = true
 
 [[files]]
@@ -2961,12 +3201,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
-hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/motschens-better-leaves.pw.toml"
-hash = "64f039cd9df9f8612bebe1547596ba8f7e035524dac93564eead9ef0e504bc0b"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Create Trash Cans"
 filename = "create-trash-cans-1.2.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "0845c684796d4d3681d17c06e26e5120ab55e4af"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wkyyLIlu/versions/8PRNlNTj/create-trash-cans-1.2.zip"
+hash-format = "sha512"
+hash = "638d42cce75412725225b68f2cf72793624183d31dc9390e3871d2e5a405f552821cd80d4940adcae56c1e5ee311f0e8a4056d9f27c3d451740d882441d3653b"
 
 [update]
-[update.curseforge]
-file-id = 7882262
-project-id = 1332625
+[update.modrinth]
+mod-id = "wkyyLIlu"
+version = "8PRNlNTj"

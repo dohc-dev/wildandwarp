@@ -1,13 +1,13 @@
 name = "Create Style Sophisticated Storages"
-filename = "CreateSophiStorage.zip"
-side = "both"
+filename = "CreateSophStorage.zip"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "999020af88b6a14aafc74f21687fcb6259789e11"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9MkP9t9t/versions/gmkQsXXv/CreateSophStorage.zip"
+hash-format = "sha512"
+hash = "74b24c280893b93cab80de62159c68dbd93fdc4cbb5c7c34de5c9557fcc82d4ebf8d6b29dca161fd808459c36483a8eec35b7d0a401d161aa15ba2eecb46cc82"
 
 [update]
-[update.curseforge]
-file-id = 7707570
-project-id = 1282587
+[update.modrinth]
+mod-id = "9MkP9t9t"
+version = "gmkQsXXv"
