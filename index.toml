@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Icl/ICL.json"
+hash = "65a93d1b20f87dc29c6257052ba35acdd92b9852d84822df2612b33b7ba026b7"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "e2e60a9c871670de47172eee9d817271e5a9b6caa6c8f3353ed6a81c4310679b"
 
@@ -14,7 +18,7 @@ hash = "8cc7c7abb485d30acd5ee080c87f3fbb5c5138c9751de9140d9a464981a68629"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "abf2c89c78b1ca561e02d3f521112963e58382a7166f4687489f1e615d24562d"
+hash = "c69f3fbbcb2369b0ee9cdfec092c6f5bdd36d540f3f38f31561a02c92a9c7069"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -1661,6 +1665,10 @@ file = "kubejs/server_scripts/spawn_control.js.bak"
 hash = "2ab677a26bbca2122f36f58678a11bf9ebc54b285b833e1b590114a522b78b98"
 
 [[files]]
+file = "mods/Sepals-neoforge-1.0.15.jar"
+hash = "42033be85b806b3c324f08d456f37c1445f4e3c469ae6b5b37c255b17cbf9c46"
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "7a0fb3d4aa706261ba64543b8edab8f0481cfd8d544fbd47df13db0a703ca38a"
 metafile = true
@@ -2746,9 +2754,8 @@ hash = "79b21d79d1d0db6b2a812f2c4bbb847cd43bcc6472c26940beba7a5005f00836"
 metafile = true
 
 [[files]]
-file = "mods/sepals.pw.toml"
+file = "mods/sepals.pw.toml.disabled"
 hash = "f7f14b5ff347c67e268e30d382876f98951d3973be251c235f0c97d5ff9a5e3a"
-metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
@@ -2910,6 +2917,56 @@ metafile = true
 [[files]]
 file = "resourcepacks/cataclysm-reimagined.pw.toml"
 hash = "d6e3b262d2cc8c21ce0cb3255eee8e9ebdb7a823b61a4e0bd8641af04faa9579"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-lootr.pw.toml"
+hash = "5736ae114ce1c28bf4b03cf8228277758c08be8bbb2caa7d0977c9b1020603bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-smart-compass.pw.toml"
+hash = "1c851e0510710b8ab8e410a7dd9ae81567562bd712983eedc491e14ffd826f73"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-storages.pw.toml"
+hash = "4aa679c0f51fd71c1cb353cbc948962f4d53184a83f8db57eb2b893d94492372"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-for-refined-storage.pw.toml"
+hash = "d889148caf26ebcbb78274d82511e00bdf84bed97606ec77625b97f29930e9ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-gui.pw.toml"
+hash = "f0d5d5fa95886c546a44da78f419d736b34736d653906ceb75120f5e6ce50f36"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-trash-cans.pw.toml"
+hash = "afe3e5d1c001c145ee3e49029df8d6e0288009bb79159c0e97bec158fcadeb75"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ftb-quests-create.pw.toml"
+hash = "7c189ebb30c622810a8b3dc6e9e0824196c34d89e5683f43d72cbbc331d510c1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/motschens-better-leaves.pw.toml"
+hash = "64f039cd9df9f8612bebe1547596ba8f7e035524dac93564eead9ef0e504bc0b"
 metafile = true
 
 [[files]]

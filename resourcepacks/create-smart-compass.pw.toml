@@ -1,0 +1,13 @@
+name = "Create:  Smart Compass"
+filename = "SmartCompass_v2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a711f506bb84885fa0e694e5b266e108d725631b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7725440
+project-id = 1182383
