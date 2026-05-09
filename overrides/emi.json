@@ -1,0 +1,47 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:quark:azalea_planks_vertical_slab",
+    "item:quark:spruce_chest",
+    {
+      "type": "item",
+      "id": "minecraft:oak_wood",
+      "amount": 3
+    },
+    "item:create:stock_ticker",
+    "item:create_enchantment_industry:blaze_forger",
+    "item:create:item_vault",
+    "item:quark:oak_chest",
+    "item:quark:blossom_planks",
+    "item:quark:blossom_button",
+    "item:minecraft:birch_door",
+    "item:sophisticatedstorage:chest{\"sophisticatedcore:accent_color\":-816214,\"sophisticatedcore:main_color\":-816214}",
+    "item:mcd_d_nether:basalt_tile_slab",
+    "item:mcd_d_nether:dark_nether_brick_wall",
+    "item:mcd_d_nether:bone_fence",
+    "item:mcd_d_nether:shy_succulent",
+    "item:create:brass_ingot",
+    "item:create_sa:brass_chestplate",
+    "item:quark:spruce_post",
+    "item:create_sa:blazing_cleaver",
+    "item:create_aeronautics_toolgun:magnetic_gun"
+  ],
+  "craft_history": [
+    "create:crafting/logistics/stock_ticker_clear",
+    "minecraft:oak_wood",
+    "jei:/create/crafting/logistics/stock_ticker_clear",
+    "create:/blocks/stock_ticker",
+    "quark:building/crafting/hollowlogs/hollow_oak_log",
+    "jei:/quark/building/crafting/hollowlogs/hollow_oak_log",
+    "quark:building/crafting/chest_revert",
+    "quark:building/crafting/chests/oak_chest",
+    "minecraft:oak_planks"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

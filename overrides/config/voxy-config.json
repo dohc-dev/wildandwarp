@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "enable_rendering": true,
+  "ingest_enabled": true,
+  "section_render_distance": 16.375,
+  "service_threads": 10,
+  "sub_division_size": 67.8564,
+  "render_vanilla_fog": true,
+  "sky_fog_distance": 96,
+  "dont_use_sodium_builder_threads": false,
+  "ssao_mode": "auto"
+}

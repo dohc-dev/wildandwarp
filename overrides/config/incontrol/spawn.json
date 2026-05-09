@@ -1,0 +1,40 @@
+[
+  {
+    "mob": ["alexsmobs:centipede", "alexsmobs:seagull"],
+    "result": "deny"
+  },
+  {
+    "mob": ["quark:stoneling", "quark:toretoise", "minecraft:glow_squid", "minecraft:squid"],
+    "result": "deny",
+    "random": 0.85
+  },
+  {
+    "mod": "alexsmobs",
+    "result": "deny",
+    "random": 0.6
+  },
+  {
+    "mob": [
+      "minecraft:warden",
+      "deeperdarker:sculk_snapper",
+      "deeperdarker:shriek_worm",
+      "deeperdarker:stalker"
+    ],
+    "result": "default"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mod": ["alexsmobs", "it_takes_a_pillage", "naturalist", "crittersandcompanions"],
+    "result": "default"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": ["minecraft:pillager", "minecraft:evoker", "minecraft:vindicator", "minecraft:ravager", "minecraft:silverfish"],
+    "result": "default"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "hostile": true,
+    "result": "deny"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "config_version": "2.0.22",
+  "config_datetime": "2026-05-06_01-43-02",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 5.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "minecraft:ruined_portal",
+      "is_disabled": true,
+      "biomes": [],
+      "enable_biome_check": false,
+      "biome_check_distance": 0
+    }
+  ],
+  "structure_sets": []
+}
