@@ -1,5 +1,5 @@
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -38,10 +38,10 @@
 	management = true
 	tools = true
 	tweaks = true
-	world = true
+	world = false
 	mobs = true
 	client = true
-	experimental = true
+	experimental = false
 	oddities = true
 
 [automation]
@@ -755,22 +755,22 @@
 		"Smelt Raw Ore Blocks" = true
 
 [world]
-	"Ancient Wood" = true
-	"Azalea Wood" = true
-	"Big Stone Clusters" = true
-	"Blossom Trees" = true
-	"Cherry Grove Water Petals" = true
-	"Chorus Vegetation" = true
-	Corundum = true
-	"Fairy Rings" = true
-	"Fallen Logs" = true
-	"Glimmering Weald" = true
-	"Monster Box" = true
-	"Nether Obsidian Spikes" = true
-	"New Stone Types" = true
-	"No More Lava Pockets" = true
-	Permafrost = true
-	"Spiral Spires" = true
+	"Ancient Wood" = false
+	"Azalea Wood" = false
+	"Big Stone Clusters" = false
+	"Blossom Trees" = false
+	"Cherry Grove Water Petals" = false
+	"Chorus Vegetation" = false
+	Corundum = false
+	"Fairy Rings" = false
+	"Fallen Logs" = false
+	"Glimmering Weald" = false
+	"Monster Box" = false
+	"Nether Obsidian Spikes" = false
+	"New Stone Types" = false
+	"No More Lava Pockets" = false
+	Permafrost = false
+	"Spiral Spires" = false
 
 	[world.ancient_wood]
 		"Ancient Fruit Gives Exp" = true
@@ -1539,7 +1539,7 @@
 	"Soul Candles" = true
 	"Usage Ticker" = true
 	"Uses For Curses" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
 	[client.auto_walk_keybind]

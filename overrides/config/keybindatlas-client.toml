@@ -14,6 +14,7 @@
 	# Default: 3
 	# Range: 1 ~ 20
 	maxUnhoveredAssignments = 3
+	categoriesEnabled = true
 
 [filters]
 	hiddenBindingLabels = """
@@ -93,3 +94,24 @@ D
 	# Default: -7947009
 	# Range: > -2147483648
 	lineHover = -7947009
+
+[categories]
+	presetCategoryColors = """
+crimson|Crimson|#B63C47FF
+purple|Purple|#9145D6FF
+emerald|Emerald|#1F9F4DFF
+tangerine|Tangerine|#F97316FF
+amber|Amber|#F59E0BFF
+cyan|Cyan|#06B6D4FF
+rose|Rose|#EC4899FF
+lime|Lime|#84CC16FF
+teal|Teal|#14B8A6FF
+copper|Copper|#B45309FF"""
+	customCategories = """
+combat|Combat|#B63C47FF|#FFFFFFFF
+magic|Magic|#9145D6FF|#FFFFFFFF
+movement|Movement|#1F9F4DFF|#FFFFFFFF
+building|Building|#F59E0BFF|#111318FF
+utility|Utility|#F97316FF|#FFFFFFFF
+technology|Technology|#06B6D4FF|#FFFFFFFF"""
+	keyCategoryAssignments = ""

@@ -1,0 +1,12 @@
+{
+  "locked": false,
+  "name": "pregen",
+  "overrides": {},
+  "packIds": [
+    "file/1x1 ultimate.zip",
+    "moonlight:merged_pack",
+    "mod_resources",
+    "fabric",
+    "vanilla"
+  ]
+}

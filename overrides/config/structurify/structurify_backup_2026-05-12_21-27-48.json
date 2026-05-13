@@ -1,0 +1,3493 @@
+{
+  "config_version": "2.0.22",
+  "config_datetime": "2026-05-12_21-27-12",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "minecraft:desert_pyramid",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:igloo",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:jungle_pyramid",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:pillager_outpost_dark_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:pillager_outpost_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:pillager_outpost_mangrove",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:pillager_outpost_swamp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:ruined_portal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [
+        "minecraft:beach",
+        "minecraft:snowy_beach",
+        "minecraft:river",
+        "minecraft:frozen_river",
+        "minecraft:taiga",
+        "minecraft:snowy_taiga",
+        "minecraft:old_growth_pine_taiga",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:forest",
+        "minecraft:flower_forest",
+        "minecraft:birch_forest",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:dark_forest",
+        "minecraft:grove",
+        "minecraft:mushroom_fields",
+        "minecraft:ice_spikes",
+        "minecraft:dripstone_caves",
+        "minecraft:lush_caves",
+        "minecraft:savanna",
+        "minecraft:snowy_plains",
+        "minecraft:plains",
+        "minecraft:sunflower_plains"
+      ],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_mountain",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_nether",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_swamp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:shipwreck",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:shipwreck_beached",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:swamp_hut",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:trail_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "minecraft:village_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:ancient_vessel",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:castillo",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:catalonian_castle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:dark_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:deepslate_keep",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:dojo",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:gnome_hut",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:haunted_ruin",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:ice_tribe",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:illager_homestead",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:illager_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:jungle_settlement",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:lighthouse",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:marble_chateau",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:monastery_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:mosque",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:mud_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:nomadic_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:old_fort",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:old_home",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:pufferfish_cave",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:quarry",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:rotten_log",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:rotting_temple",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:rotting_temple_underground",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "ati_structures:ruined_castle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:sculk_deposit",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:silverfish_nest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:sinking_temple",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:small_keep",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:spider_nest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:storage_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:storage_shack",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:stray_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ati_structures:underground_monument",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:underwater_dungeon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "ati_structures:wither_keep",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_acacia",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_dripstone",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_ice",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_lush",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_mesa",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_mushroom",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_overgrown",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_red_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_spruce",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "bettermineshafts:mineshaft_spruce_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "betterwitchhuts:witch_circle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "betterwitchhuts:witch_hut",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "cataclysm:abandoned_spire",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cataclysm:abandoned_temple",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cataclysm:abandoned_village",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cataclysm:desert_occupied_village",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cataclysm:desert_site",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cataclysm:desert_temple",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cataclysm:kobolediator_shrine",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "dungeons_arise_seven_seas:corsair_corvette",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "dungeons_arise_seven_seas:small_yacht",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "epic:medium_ice_dungeon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "epic:medium_plains_dungeon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "epic:medium_sand_dungeon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "epic:small_ice_dungeon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "epic:small_plains_dungeon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "epic:small_sand_dungeon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "grim_kingdoms:frostbloom_bastion",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "grim_kingdoms:glimmervault_fortress",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "grim_kingdoms:stonyfell_outpost",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "grim_kingdoms:zweiberg",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:abandoned_lighthouse",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:abandoned_vineyard",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:abandonedhouse",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ancient_portal/nether_ancient_portal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:ancient_statue/ancient_statue_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ancient_statue/ancient_statue_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ancient_statue/ancient_statue_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:animal_den/forest_den",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:animal_den/foxhound_den",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:animal_den/polar_bear_den",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ars_nouveau/archmages_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:bazaar",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:beekeepers_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:brickhouse",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:collectors_museum",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:cottage",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_camp/desert_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_camp/desert_camp_bygwindswept",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_camp/desert_camp_orange",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_camp/desert_camp_red",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_market/desert_market",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_market/desert_market_orange",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_market/desert_market_red",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:desert_pyramid",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:desert_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:dig_site/dig_site",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:dig_site/dig_site_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:enchantingtower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:farmhouse",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:fishermans_lodge",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:frozen_crypt",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:haunted_manor",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:hermits_hollow",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:hunters_cabin",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:iceandfire/dread_citadel",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:iceandfire/sirens_cove",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_acacia",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_birch",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_bopmahogany",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_bopredwood",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_bygmahogany",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_bygredwood",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_dark_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:lumber_camp/lumber_camp_spruce",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:mason_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:necromancers_spire",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:nether_pump_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:nexus",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:pillager_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:pillager_fortress",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:redhorn_guild",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ruined_church",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ruined_fort",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ruined_well",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:ruins_of_the_deep",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:snifferhenge",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:sunken_ship/sunken_ship",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:sunken_ship/sunken_ship_coral",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:sunken_ship/sunken_ship_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:the_log",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:tinkers_citadel",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:tinkers_workshop",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:train_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:tree_of_wisdom",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:treetop_tavern",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:tudor_pub",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:underground_camp/underground_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:underground_camp/underground_camp_deep",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "idas:wacky_wares",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:washing_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:windswept_shrine",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "idas:winter_wagon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:witches_treestump",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "idas:wizard_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:astral_hideaway",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:ender_spire",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:enderbloom_grove",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:enderpin_spikes",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mes:enderskog",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:endscraps",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:mega_ship_basic",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mes:mega_ship_crashed",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:mega_ship_crashed_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:mega_ship_crashed_deepslate",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:mega_ship_deepslate",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mes:mega_ship_deepslate_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mes:mythic_garden",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:placid_prairie",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mes:ruined_pillar",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mes:starlight_voyager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mns:bridge_1",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mns:bridge_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mns:bridge_3",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mns:bridge_4",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mns:bridge_5",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mns:bridge_6",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "mns:circle_blackstone",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:circle_nether_brick",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:copper_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:crimson_forge",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:crimson_lava_well",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:giant_skull",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:grave_yard",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:large_blackstone_pillars",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:large_blackstone_walls",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:large_nether_brick",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:lava_pool",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:leafy_rubble",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_blackstone",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_crimson_fungus",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_crimson_fungus_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_crimson_well",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_house_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_warped_fungus",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_warped_fungus_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:medium_warped_well",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:nether_wart_farm",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:ruined_portal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:sandy_skull",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:shrine",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:small_nether_brick",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:smoking_shrine",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:soul_fire",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:train",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:very_small_blackstone",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:very_small_blackstone_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:very_small_blackstone_3",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:very_small_blackstone_4",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:very_small_nether_brick",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:very_small_nether_brick_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:very_small_nether_brick_3",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:warped_dome",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:warped_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "mns:warped_pool",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "supplementaries:galleon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:ancient_hoops",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:ancient_shrine",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:battle_cubes",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:bee_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:bumbling_beepartments",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:candle_parkour",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:cannon_range",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:cell_maze",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "the_bumblezone:cherry_veteran_tree",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "local_modifications",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:dance_floor",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:gazebuzz_cluster",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:goliath_honey_fountain",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:hanging_garden",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:hive_temple",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:honey_cave_room",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:honey_fountain",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:honey_slime_ranch",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:honitel",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:ice_monolith",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "the_bumblezone:mite_fortress",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:overgrown_flower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:phantasm_aviary",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:pirate_ship",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:pollinated_stream",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:sempiternal_sanctum_blue",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:sempiternal_sanctum_green",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:sempiternal_sanctum_purple",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:sempiternal_sanctum_red",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:sempiternal_sanctum_white",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:sempiternal_sanctum_yellow",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:stinger_spear_shrine",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "the_bumblezone:subway",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "the_bumblezone:throne_pillar",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "towns_and_towers:exclusives/pillager_outpost_classic",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/pillager_outpost_iberian",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/pillager_outpost_mediterranean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/pillager_outpost_nilotic",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "towns_and_towers:exclusives/pillager_outpost_oriental",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_classic",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_iberian",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_mediterranean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_nilotic",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_piglin",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_rustic",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_swedish",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_tudor",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:exclusives/village_wandering_trader_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:mimic_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_badlands",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_beach",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_birch_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_grove",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_mushroom_fields",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_old_growth_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_savanna_plateau",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_snowy_beach",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_snowy_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_sparse_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_sunflower_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_swamp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:pillager_outpost_wooded_badlands",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_badlands",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_beach",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_birch_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_flower_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_forest",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_grove",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_meadow",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_mushroom_fields",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "towns_and_towers:village_old_growth_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_savanna_plateau",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_snowy_slopes",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_snowy_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_sparse_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_sunflower_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_swamp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:village_wooded_badlands",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "fluid_springs",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "towns_and_towers:wreckage_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:nether/common/nether_pillar",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:nether/medium/overworld_leak_1",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:nether/medium/overworld_leak_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/common/cooking_pork",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/elven_pillars",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/frozen_remains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/common/mushroom_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/common/ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/small_desert_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/small_swamp_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/smoldering_altar",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/strange_stone",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/common/termite_hill",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/two_woods",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/well",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/common/well_pillager_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/all_abandoned",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/base_1",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/base_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/base_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/beehive_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/birch_fort",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/bone_dragon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/buried_village",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/camp_1",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/camp_2",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/camp_3",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/camp_4",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/church",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/claw_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/claw_spike",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/cold_hideout",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/cold_red_trade",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/dark_oak_trade",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/desert_outpost",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/desert_ranch",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/destroyed_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/dirt_hut",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/enchanter",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/farm",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/farm_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/fort",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/frozen_tree",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/graveyard",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/hobbit_hole",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/ice_fort",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/igloo_village",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/jungle_outpost",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/jungle_trade",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/jungle_treehouse",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/lush_ice",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/maison",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/mangrove_watchtower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/oasis",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/offshore_platform_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/orbital",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/pillager_old_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/pillager_weapons",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/railroad",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/ritual",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/ruine_bateaux",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/ruine_cabane",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/ruine_tour",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/ship_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/small_pyramide",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/small_red_trade",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/snow_cottage",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/snowman",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/sorcerers_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/spruce_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/spruce_cottage",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/square_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/star_spike",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/stelzen",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/stonehedge",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/strange_house",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/street_vendor_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/street_vendor_stall",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/three_finger_ice",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/tour",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/tour_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/tower_of_ice",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/underwater_sword",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/wandering_trader_dark_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/wandering_trader_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/wandering_trader_spruce",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/water_reservoir_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/medium/well_pillager_medium",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/wild_stone",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/medium/witch_tower",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/rare/abandoned_castle_pillager",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "trek:overworld/rare/elven_tree",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/rare/maya",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/rare/pyramide_of_anubis",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:overworld/rare/sunken_city",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/rare/villager_fortress",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "trek:overworld/very_common/plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/very_common/rocks",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/very_rare/farm_island",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:overworld/very_rare/floating_farm_large",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:village/cherry",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:village/desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:village/mushroom",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:village/plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:village/savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:village/snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "trek:village/swamp_vanilla",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "trek:village/taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "undergarden:catacombs",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "undergarden:denizen_camp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "undergarden:depleted_mine",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "encapsulate"
+    },
+    {
+      "name": "undergarden:forgotten_vestige",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "unusual_adventures:null_laboratory",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "unusual_adventures:ruined_laboratory",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    }
+  ],
+  "structure_sets": []
+}

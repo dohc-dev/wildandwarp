@@ -4,14 +4,9 @@
     "result": "deny"
   },
   {
-    "mob": ["quark:stoneling", "quark:toretoise", "minecraft:glow_squid", "minecraft:squid"],
+    "mob": ["quark:stoneling", "quark:toretoise"],
     "result": "deny",
     "random": 0.85
-  },
-  {
-    "mod": "alexsmobs",
-    "result": "deny",
-    "random": 0.6
   },
   {
     "mob": [

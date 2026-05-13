@@ -3,6 +3,7 @@
 *.log.*
 logs/
 crash-reports/
+temp/
 
 # IDE and editor files
 .vscode/
