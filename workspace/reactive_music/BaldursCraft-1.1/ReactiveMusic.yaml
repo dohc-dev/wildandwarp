@@ -1,0 +1,500 @@
+name: "BaldursCraft Songpack"
+version: "1.1"
+author: "zick407"
+description: "Feel yourself in a real RPG adventure!"
+credits: "Larian Studios, Borislav Slavov, Kirill Pokrovsky"
+
+musicSwitchSpeed: SHORT
+musicDelayLength: NONE
+
+
+
+entries:
+
+  # OUTSIDE THE GAME
+  - events: [ "MAIN_MENU" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Out-MainTitle1"
+      - "Out-MainTitle2"
+      - "Out-MainTitle3"
+
+  - events: [ "CREDITS" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Out-Credits1"
+
+
+
+
+  # HIGH TO LOW PRIORITY
+  # BIOMES BOSS
+  - events: [ "BOSS", "DIM=END" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-End-Boss1"
+      - "Biome-End-Boss2"
+
+  - events: [ "BOSS", "DIM=NETHER" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-Nether-Boss1"
+      - "Biome-Nether-Boss2"
+  
+  - events: [ "BOSS", "BIOMETAG=IS_SNOWY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-Snowy-Boss1"
+      - "General-Boss4"
+
+  - events: [ "BOSS", "BIOMETAG=IS_SAVANNA" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-Savanna-Boss1"
+      - "General-Boss3"
+
+  - events: [ "BOSS", "BIOMETAG=IS_JUNGLE" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-Jungle-Boss1"
+      - "General-Boss3"
+
+  - events: [ "BOSS", "BIOMETAG=IS_DRY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-Sandy-Boss1"
+      - "General-Boss3"
+
+
+
+
+  # GENERAL BOSS
+  - events: [ "BOSS" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "General-Boss1"
+      - "General-Boss2"
+      - "General-Boss3"
+      - "General-Boss4"
+      - "General-Boss5"
+      - "General-Boss6"
+
+
+
+
+  # GENERAL STORM
+  - events: [ "STORM" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+     - "General-Storm1"
+     - "General-Storm2"
+     - "General-Storm3"
+
+
+
+
+  # END AND NETHER DEFAULT
+  - events: [ "DIM=NETHER" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-Nether1"
+      - "Biome-Nether2"
+      - "Biome-Nether3"
+      - "Biome-Nether4"
+      - "Biome-Nether5"
+      - "Biome-Nether6"
+      - "Biome-Nether7"
+      - "Biome-Nether8"
+      - "Biome-Nether9"
+      - "Biome-Nether10"
+      - "Biome-Nether11"
+
+  - events: [ "DIM=END" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Biome-End1"
+      - "Biome-End2"
+      - "Biome-End3"
+      - "Biome-End4"
+      - "Biome-End5"
+      - "Biome-End6"
+      - "Biome-End7"
+      - "Biome-End8"
+
+
+
+
+  # GENERAL DEEP UNDERGROUND
+  - events: [ "OVERWORLD", "DEEP_UNDERGROUND" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "General-DeepUnderground1"
+      - "General-DeepUnderground2"
+      - "General-DeepUnderground3"
+      - "General-DeepUnderground4"
+
+
+
+
+  # BIOMES UNDERGROUND
+  - events: [ "UNDERGROUND", "BIOMETAG=IS_SNOWY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Snowy-Underground1"
+      - "Biome-Snowy-Underground2"
+      - "Biome-Snowy-Underground3"
+      - "General-Underground3"
+
+  - events: [ "UNDERGROUND", "BIOMETAG=IS_SAVANNA" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Savanna-Underground1"
+      - "Biome-Savanna-Underground2"
+      - "Biome-Savanna-Underground3"
+      - "Biome-Savanna-Underground4"
+      - "General-Underground3"
+
+  - events: [ "UNDERGROUND", "BIOMETAG=IS_JUNGLE" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Jungle-Underground1"
+      - "Biome-Jungle-Underground2"
+      - "Biome-Jungle-Underground3"
+      - "General-Underground3"
+
+  - events: [ "UNDERGROUND", "BIOMETAG=IS_SWAMP" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Jungle-Underground1"
+      - "Biome-Jungle-Underground2"
+      - "Biome-Jungle-Underground3"
+      - "General-Underground3"
+
+  - events: [ "UNDERGROUND", "BIOMETAG=IS_DRY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Sandy-Underground1"
+      - "Biome-Sandy-Underground2"
+      - "Biome-Sandy-Underground3"
+      - "Biome-Sandy-Underground4"
+      - "General-Underground3"
+
+
+
+
+  # GENERAL UNDERGROUND
+  - events: [ "OVERWORLD", "UNDERGROUND" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "General-Underground1"
+      - "General-Underground2"
+      - "General-Underground3"
+      - "General-Underground4"
+
+
+
+
+  # GENERAL HIGH UP
+  - events: [ "OVERWORLD", "HIGH_UP" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "General-HighAltitude1"
+      - "General-HighAltitude2"
+      - "General-HighAltitude3"
+      - "General-Day3"
+
+
+
+
+  # BIOMES DAYTIME
+  - events: [ "DAY", "BIOMETAG=IS_OCEAN" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Ocean-Day1"
+      - "General-Day7"
+      - "Biome-Ocean-Day2"
+      - "Biome-Ocean-Day3"
+      - "General-Day2"
+  
+  - events: [ "DAY", "BIOMETAG=IS_SNOWY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Snowy-Day1"
+      - "Biome-Snowy-Day2"
+      - "Biome-Snowy-Day3"
+      - "Biome-Snowy-Day4"
+      - "Biome-Snowy-Day5"
+
+  - events: [ "DAY", "BIOMETAG=IS_SAVANNA" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Savanna-Day1"
+      - "Biome-Savanna-Day2"
+      - "Biome-Savanna-Day3"
+      - "General-Day11"
+      - "General-Day13"
+      - "General-Day14"
+      - "General-Day1"
+
+  - events: [ "DAY", "BIOMETAG=IS_JUNGLE" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Jungle-Day1"
+      - "General-Day11"
+      - "General-Day15"
+      - "General-Day1"
+      - "General-Day5"
+      
+  - events: [ "DAY", "BIOMETAG=IS_SWAMP" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Jungle-Day1"
+      - "General-Day11"
+      - "General-Day15"
+      - "General-Day1"
+      - "General-Day5"
+
+  - events: [ "DAY", "BIOMETAG=IS_CONIFEROUS_TREE" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Forest-Day1"
+      - "Biome-Forest-Day2"
+      - "Biome-Forest-Day3"
+      - "Biome-Forest-Day4"
+      - "General-Day4"
+      - "General-Day5"
+      - "Biome-Forest-Day5"
+      - "General-Day10"
+      - "General-Day15"
+      - "General-Day16"
+      - "General-Day8"
+
+  - events: [ "DAY", "BIOMETAG=IS_MOUNTAIN" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Hills-Day1"
+      - "General-Day1"
+      - "General-Day2"
+      - "General-Day3"
+      - "General-Day5"
+      - "General-Day6"
+      - "General-Day9"
+      - "General-Day10"
+      - "General-Day15"
+      - "General-Day16"
+      
+  - events: [ "DAY", "BIOMETAG=IS_FOREST" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Forest-Day1"
+      - "Biome-Forest-Day2"
+      - "Biome-Forest-Day3"
+      - "Biome-Forest-Day4"
+      - "General-Day4"
+      - "General-Day5"
+      - "Biome-Forest-Day5"
+      - "General-Day10"
+      - "General-Day15"
+      - "General-Day16"
+      - "General-Day8"
+
+  - events: [ "DAY", "BIOMETAG=IS_DRY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Sandy-Day1"
+      - "Biome-Sandy-Day2"
+      - "General-Day11"
+      - "General-Day13"
+      - "General-Day14"
+      - "General-Day1"
+
+  - events: [ "DAY", "BIOMETAG=IS_BEACH" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Ocean-Day1"
+      - "General-Day7"
+      - "Biome-Ocean-Day2"
+      - "Biome-Ocean-Day3"
+      - "General-Day2"
+
+
+
+
+ # GENERAL DAYTIME
+  - events: [ "OVERWORLD", "DAY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "General-Day1"
+      - "General-Day2"
+      - "General-Day3"
+      - "General-Day4"
+      - "General-Day5"
+      - "General-Day6"
+      - "General-Day7"
+      - "General-Day8"
+      - "General-Day9"
+      - "General-Day10"
+      - "General-Day11"
+      - "General-Day12"
+      - "General-Day13"
+      - "General-Day14"
+      - "General-Day15"
+      - "General-Day16"
+      
+      
+
+
+  # BIOMES NIGHTTIME
+  - events: [ "NIGHT", "BIOMETAG=IS_SNOWY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Snowy-Night1"
+      - "Biome-Snowy-Night2"
+      - "Biome-Snowy-Night3"
+      - "Biome-Snowy-Night4"
+      - "General-Night13"
+  
+  - events: [ "NIGHT", "BIOMETAG=IS_SAVANNA" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Savanna-Night1"
+      - "Biome-Savanna-Night2"
+      - "Biome-Savanna-Night3"
+      - "General-Night1"
+      - "General-Night9"
+
+  - events: [ "NIGHT", "BIOMETAG=IS_JUNGLE" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Jungle-Night1"
+      - "Biome-Jungle-Night2"
+      - "General-Night9"
+      - "General-Night11"
+      - "General-Night5"
+
+  - events: [ "NIGHT", "BIOMETAG=IS_SWAMP" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Jungle-Night1"
+      - "Biome-Jungle-Night2"
+      - "General-Night9"
+      - "General-Night11"
+      - "General-Night5"
+
+  - events: [ "NIGHT", "BIOMETAG=IS_DRY" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "Biome-Sandy-Night1"
+      - "Biome-Sandy-Night2"
+      - "Biome-Sandy-Night3"
+      - "Biome-Sandy-Night4"
+      - "General-Night1"
+      - "General-Night9"
+
+
+
+
+       # GENERAL NIGHTTIME
+  - events: [ "OVERWORLD", "NIGHT" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    allowFallback: false
+    songs:
+      - "General-Night1"
+      - "General-Night2"
+      - "General-Night3"
+      - "General-Night4"
+      - "General-Night5"
+      - "General-Night6"
+      - "General-Night7"
+      - "General-Night8"
+      - "General-Night9"
+      - "General-Night10"
+      - "General-Night11"
+      - "General-Night12"
+      - "General-Night13"
+      - "General-Night14"

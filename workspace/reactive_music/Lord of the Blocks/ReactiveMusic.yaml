@@ -1,0 +1,261 @@
+name: "Lord of the Blocks"
+version: "1.0"
+author: "SireSpud"
+description: "One Block to Rule Them All"
+credits: "All music from the Lord of the Rings Trilogy"
+
+musicSwitchSpeed: SHORT
+musicDelayLength: NONE
+
+entries:
+
+  # ----------------------------
+  #     Main Menu & End Poem
+  # ----------------------------
+
+  - events: [ "MAIN_MENU" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    songs:
+      - "01 - Prologue_ One Ring to Rule Them All"
+
+  - events: [ "CREDITS" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    songs:
+      - "07 - The Road Goes Ever On..., Pt. 1"
+
+  # -----------------------
+  #     Bosses & Events
+  # -----------------------
+
+  # Ender Dragon
+  - events: [ "BOSS", "END" ]
+    songs:
+      - "02 - The Caverns of Isengard"
+
+  # Wither
+  - events: [ "BOSS", "NETHER || UNDERGROUND" ]
+    songs:
+      - "01 - Weathertop"
+      - "45 - For Frodo (feat. Ben del Maestro)"
+
+  # Raid
+  - events: [ "BOSS" ]
+    forceStopMusicOnChanged: true
+    forceStartMusicOnValid: true
+    songs:
+      - "04 - The Fighting Uruk-hai"
+
+  # ---------------
+  #     The End
+  # ---------------
+
+  - events: [ "END" ]
+    forceStopMusicOnChanged: true
+    songs:
+      - "14 - The Nazgûl"
+
+  # ------------------
+  #     The Nether
+  # ------------------
+
+  - events: [ "NETHER", "BIOME=WARPED" ]
+    songs:
+      - "10 - The Pass of Caradhras"
+
+  - events: [ "NETHER", "BIOME=CRIMSON" ]
+    songs:
+      - "03 - Give Up the Halfling"
+
+  - events: [ "NETHER", "BIOME=BASALT || BIOME=SOUL" ]
+    songs:
+      - "04 - The Fighting Uruk-hai"
+
+  - events: [ "NETHER" ]
+    forceStopMusicOnChanged: true
+    songs:
+      - "04 - Orthanc"
+
+  # -------------------
+  #     Underground
+  # -------------------
+
+  # Village
+  - events: [ "VILLAGE", "UNDERGROUND" ]
+    songs:
+      - "05 - Flaming Red Hair"
+
+  # Deep Dark
+  - events: [ "BIOMETAG=IS_CAVE", "BIOMETAG=NO_DEFAULT_MONSTERS" ]
+    songs:
+      - "03 - The Mirror of Galadriel"
+
+  # Dripstone Caves
+  - events: [ "BIOMETAG=IS_CAVE", "BIOME=DRIPSTONE" ]
+    songs:
+      - "06 - Farewell Dear Bilbo"
+
+  # Lush Caves
+  - events: [ "BIOMETAG=IS_CAVE", "BIOMETAG=IS_WET || BIOMETAG=IS_JUNGLE || BIOME=JUNGLE || BIOMETAG=IS_FOREST || BIOME=FOREST || BIOME=LUSH" ]
+    songs:
+      - "09 - Three Is Company"
+
+  # Deep underground (y < 15)
+  - events: [ "DEEP_UNDERGROUND" ]
+    songs:
+      - "12 - Moria"
+      - "13 - Gollum"
+
+  # Underground (y < 55)
+  - events: [ "UNDERGROUND" ]
+    forceStopMusicOnChanged: true
+    songs:
+      - "12 - Moria"
+      - "13 - Gollum"
+
+  # ------------------
+  #     Dry biomes
+  # ------------------
+
+  # Village in dry biomes
+  - events: [ "VILLAGE", "BIOMETAG=IS_DRY", "DAY" ]
+    songs:
+      - "05 - Flaming Red Hair"
+
+  - events: [ "VILLAGE", "BIOMETAG=IS_DRY", "NIGHT" ]
+    songs:
+      - "05 - Rivendell"
+
+  # Savannas
+  - events: [ "BIOMETAG=IS_SAVANNA || BIOME=SAVANNA", "DAY" ]
+    songs:
+      - "03 - Bag End"
+      - "02 - The Shire"
+
+  - events: [ "BIOMETAG=IS_SAVANNA || BIOME=SAVANNA", "NIGHT" ]
+    songs:
+      - "05 - Rivendell"
+
+  # Deserts and Badlands
+  - events: [ "RAIN", "BIOMETAG=IS_DRY || BIOME=DESERT || BIOME=BADLANDS", "NIGHT" ]
+    songs:
+      - "Allegiance to Denethor"
+
+  - events: [ "BIOMETAG=IS_DRY || BIOME=DESERT || BIOME=BADLANDS" ]
+    songs:
+      - "08 - The Great Eye"
+
+  # ------------
+  #     Rain
+  # ------------
+
+  - events: [ "RAIN", "STORM" ]
+    forceStopMusicOnChanged: true
+    songs:
+      - "02 - Journey to the Cross-roads"
+
+  - events: [ "RAIN", "BIOMETAG=IS_DEEP_OCEAN" ]
+    songs:
+      - "02 - Journey to the Cross-roads"
+
+  - events: [ "RAIN", "BIOMETAG=WASTELAND || BIOME=PALE", "NIGHT" ]
+    songs:
+      - "13 - The Forbidden Pool"
+
+  - events: [ "RAIN", "SUNRISE" ]
+    songs:
+      - "03 - The Road to Isengard"
+
+  - events: [ "RAIN" ]
+    forceStopMusicOnChanged: true
+    songs:
+      - "03 - The Road to Isengard"
+
+  # --------------------
+  #     Other biomes
+  # --------------------
+
+  # Mushroom Fields
+  - events: [ "BIOMETAG=NO_DEFAULT_MONSTERS || BIOMETAG=IS_MUSHROOM || BIOME=MUSHROOM" ]
+    songs:
+      - "06 - The Chalice Passed"
+
+  # Pale Farden
+  - events: [ "BIOMETAG=WASTELAND || BIOME=PALE", "DAY" ]
+    songs:
+      - "13 - The Eyes of the White Tower"
+
+  - events: [ "BIOMETAG=WASTELAND || BIOME=PALE", "NIGHT" ]
+    songs:
+      - "08 - Gollum's Villainy"
+
+  # Village
+  - events: [ "VILLAGE", "DAY" ]
+    songs:
+      - "02 - The Shire"
+
+  - events: [ "VILLAGE" ]
+    forceStopMusicOnChanged: true
+    songs:
+      - "05 - Rivendell"
+
+  # Mountain Peaks at y >= 129
+  - events: [ "HIGH_UP", "BIOMETAG=IS_MOUNTAIN_PEAK || BIOME=PEAK", "DAY" ]
+    songs:
+      - "22 - Andúril - Flame of the West"
+
+  - events: [ "HIGH_UP", "BIOMETAG=IS_MOUNTAIN_PEAK || BIOME=PEAK", "NIGHT" ]
+    songs:
+      - "04 - The Foot of Orthanc"
+
+  # Oceans
+  - events: [ "BIOMETAG=IS_OCEAN", "DAY" ]
+    songs:
+      - "05 - Return to Edoras"
+
+  - events: [ "BIOMETAG=IS_OCEAN" ]
+    songs:
+      - "39 - The Passing of Théoden"
+
+  # Snowy biomes
+  - events: [ "BIOMETAG=IS_SNOWY || BIOME=SNOW || BIOMETAG=IS_ICY || BIOME=ICY || BIOME=ICE || BIOME=FROZEN || BIOMETAG=IS_AQUATIC_ICY" ]
+    songs:
+      - "04 - Very Old Friends"
+
+  # Old Growth Forests and Dark Forest
+  - events: [ "BIOMETAG=IS_OLD_GROWTH || BIOME=OLD_GROWTH || BIOME=DARK_FOREST"]
+    songs:
+      - "08 - A Conspiracy Unmasked"
+
+
+  # -----------------------------
+  #     Generic biomes at day
+  # -----------------------------
+
+  # Flower Forest
+  - events: [ "BIOMETAG=IS_FLOWER_FOREST", "DAY" ]
+    songs:
+      - "03 - Bag End"
+
+  # Meadow, Sunflower Plains and Cherry Grove
+  - events: [ "BIOMETAG=IS_FLORAL", "DAY" ]
+    songs:
+      - "03 - Bag End"
+
+  # Other biomes
+  - events: [ "DAY" ]
+    songs:
+      - "03 - Bag End"
+      - "02 - The Shire"
+
+  # -------------------------------
+  #     Generic biomes at night
+  # -------------------------------
+
+  # Other biomes
+  - events: [ "NIGHT" ]
+    forceStopMusicOnChanged: true
+    songs:
+      - "05 - Rivendell"
+

@@ -1,3 +1,4 @@
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 *.mrpack filter=lfs diff=lfs merge=lfs -text
 workspace/*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text

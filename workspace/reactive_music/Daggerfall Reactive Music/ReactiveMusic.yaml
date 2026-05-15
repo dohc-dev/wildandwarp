@@ -1,0 +1,199 @@
+name: "The Elder Scrolls II - Daggerfall"
+version: "1.0"
+author: "Taurmell"
+description: "Music from The Elder Scrolls II - Daggerfall"
+credits: "Bethesda® Softworks, composed by Eric Heberling."
+
+# Music delay between all music, set to NONE for instant music or set to normal for longer silence. Default = SHORT
+musicSwitchSpeed: SHORT
+musicDelayLength: SHORT
+
+
+entries:
+# Sort by priority
+  - events: [ "MAIN_MENU" ]
+    allowFallback: false
+    songs:
+      - "Menu1"
+
+  - events: [ "CREDITS" ]
+    songs:
+      - "Menu1"
+      
+  - events: [ "BOSS", "DIM=END" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "BossEnd1"
+      - "BossEnd2"
+      - "BossEnd3"
+      - "BossEnd4"
+
+  - events: [ "BOSS", "VILLAGE" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Fighting1"
+      - "Fighting2"
+
+  - events: [ "BOSS" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Boss1"
+      - "Boss2"
+      - "Boss3"
+      - "Boss4"
+
+  - events: [ "MINECART" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Minecart1"
+
+  - events: [ "HOME", "BIOMETAG=IS_UNDERGROUND" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: true
+    songs:
+      - "HomeUnder1"
+      - "HomeUnder2"
+
+  - events: [ "HOME" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Home1"
+      - "Home2"
+      - "Home3"
+      - "Home4"
+
+  - events: [ "VILLAGE" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Village1"
+      - "Village2"
+      - "Village3"
+      - "Village4"
+      - "Village5"
+
+  - events: [ "BIOME=deep_dark" ]
+    allowFallback: false
+    songs:
+      - "DeepDark1"
+      - "DeepDark2"
+      - "DeepDark3"
+      - "DeepDark4"
+      - "DeepDark5"
+      - "DeepDark6"
+      - "DeepDark7"
+      - "DeepDark8"
+
+  - events: [ "DIM=NETHER" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Nether1"
+      - "Nether2"
+      - "Nether3"
+      - "Nether4"
+      - "Nether5"
+      - "Nether6"
+
+  - events: [ "DIM=END" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "End1"
+      - "End2"
+      - "End3"
+
+  - events: [ "UNDERWATER" ]
+    allowFallback: false
+    songs:
+      - "Underwater1"
+
+  - events: [ "OVERWORLD", "DEEP_UNDERGROUND" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "DeepUnderground1"
+      - "DeepUnderground2"
+      - "DeepUnderground3"
+      - "DeepUnderground4"
+      - "DeepUnderground5"
+      - "DeepUnderground6"
+      - "DeepUnderground7"
+      - "DeepUnderground8"
+
+  - events: [ "OVERWORLD", "UNDERGROUND" ]
+    forceStopMusicOnInvalid: true
+    allowFallback: false
+    songs:
+      - "Underground1"
+      - "Underground2"
+      - "Underground3"
+      - "Underground4"
+      - "Underground5"
+      - "Underground6"
+      - "Underground7"
+
+  - events: [ "SUNRISE" ]
+    allowFallback: false
+    songs:
+      - "Sunrise1"
+      - "Sunrise2"
+      
+  - events: [ "SUNSET" ]
+    allowFallback: false
+    songs:
+      - "Sunset1"
+      - "Sunset2"
+      - "Sunset3"
+
+  - events: [ "DAY" ]
+    allowFallback: false
+    songs:
+      - "Day1"
+      - "Day2"
+      - "Day3"
+      - "Day4"
+      - "Day5"
+      - "Day6"
+      - "Day7"
+      - "Day8"
+      - "Day9"
+      - "Day10"
+      - "Day11"
+      - "Day12"
+      - "Day13"
+      - "Day14"
+      - "Day15"
+      - "Day16"
+
+  - events: [ "NIGHT" ]
+    allowFallback: false
+    songs:
+      - "Night1"
+      - "Night2"
+      - "Night3"
+      - "Night4"
+      - "Night5"
+      - "Night6"
+      - "Night7"
+      
+  - events: [ "RAIN" ]
+    allowFallback: false
+    songs:
+      - "Rain1"
+      - "Rain2"
+      - "Rain3"
+      
+  - events: [ "SNOW" ]
+    allowFallback: false
+    songs:
+      - "Snow1"  
+      - "Snow2"   
+      - "Snow3"      
+
+      

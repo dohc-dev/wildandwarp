@@ -1,0 +1,44 @@
+# ============================================================================
+# build-mrpack.toml - Configuration for .mrpack builder
+# ============================================================================
+# This file controls which files/folders from build/overrides/ are
+# EXCLUDED (blacklist) when creating client and server variants.
+#
+# Format:
+#   [client]
+#   exclude = ["path/to/exclude/", "another/path.txt"]
+#
+#   [server]
+#   exclude = ["path/to/exclude/"]
+#
+# Patterns Support:
+#   - Exact paths: "config/fancymenu/", "jade/jade.json"
+#   - Wildcards: "*mods/voxy*alpha.jar", "*.txt", "**/config/xaero*"
+#   - Multiple items: ["xaero/", "jade/", "config/options.txt", "*voxy*"]
+#
+# Examples:
+#   - Exclude entire directory: "config/fancymenu/"
+#   - Exclude specific file: "jade/jade.json"
+#   - Exclude by pattern: "*mods/voxy*alpha.jar" (matches voxy mod files)
+#   - Exclude all txt files: "*.txt"
+#
+# Note: Paths are relative to build/overrides/
+#       Leave empty arrays to include all files: exclude = []
+# ============================================================================
+
+[client]
+# Client exclusions - files/folders to remove from client variant
+# Default: empty (include everything)
+exclude = []
+
+[server]
+# Server exclusions - files/folders to remove from server variant
+# Typically: remove GUI/HUD/visual mods that don't make sense on a server
+# Example:
+#   exclude = [
+#       "config/fancymenu/",      # Remove FancyMenu configs (GUI mod)
+#       "jade/",                   # Remove Jade configs (HUD mod)
+#       "xaero/",                  # Remove Xaero's configs (minimap mod)
+#       "config/visual_keybinder.toml"  # Remove keybinding configs
+#   ]
+exclude = ["*mods/voxy*alpha.jar"]
